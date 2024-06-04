@@ -1,0 +1,966 @@
+{
+  "id": 20527,
+  "idMal": 21327,
+  "title": {
+    "romaji": "Isshuukan Friends.",
+    "english": "One Week Friends",
+    "userPreferred": "Isshuukan Friends."
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20527-6idifxd10b2Q.png",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20527-6idifxd10b2Q.png",
+    "color": "#e4bb5d"
+  },
+  "description": "The story revolves around Yuki, a boy who wants to become friends with his classmate and desk neighbor Kaori. However, she gently declines his friendship, saying, “But, my... Memories of my friends disappear in a week...” Even so, Yuki wants to become her friend, and so the two become friends over and over again as the weeks pass.",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20527-NIgzVL6kd3p2.jpg",
+  "episodes": 12,
+  "status": "FINISHED",
+  "duration": 24,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 2014,
+  "season": "SPRING",
+  "format": "TV",
+  "averageScore": 73,
+  "popularity": 62745,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2014,
+    "month": 4,
+    "day": 7
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 6,
+    "day": 23
+  },
+  "trailer": {
+    "id": "Vrz_-80bvW4",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/Vrz_-80bvW4/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 112,
+        "name": "Brain's Base",
+        "siteUrl": "https://anilist.co/studio/112"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 73967,
+          "title": {
+            "romaji": "Isshuukan Friends.",
+            "native": "一週間フレンズ。",
+            "english": "One Week Friends"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx73967-5YNYySbjWx5v.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73967-5YNYySbjWx5v.jpg"
+          },
+          "episodes": null,
+          "chapters": 41,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 20765,
+          "title": {
+            "romaji": "Isshuukan Friends. Kaori no Nikki",
+            "native": "一週間フレンズ。香織の日記",
+            "english": "One Week Friends Kaori no Nikki"
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20765.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20765.jpg"
+          },
+          "episodes": 12,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 17895,
+          "title": {
+            "romaji": "Golden Time",
+            "english": "Golden Time"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17895-nRpWbggDlXXB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17895-nRpWbggDlXXB.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21495,
+          "title": {
+            "romaji": "Tanaka-kun wa Itsumo Kedaruge",
+            "english": "Tanaka-kun is Always Listless"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21495-Xn1lHxRKDBXW.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21495-Xn1lHxRKDBXW.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2924,
+          "title": {
+            "romaji": "ef: a tale of memories.",
+            "english": "ef ~ A Tale of Memories"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2924-KX5x77OjVBV3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2924-KX5x77OjVBV3.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101316,
+          "title": {
+            "romaji": "Irozuku Sekai no Ashita kara",
+            "english": "IRODUKU: The World in Colors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101316-yI1ZvMrsDUn9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101316-yI1ZvMrsDUn9.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 14753,
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun: Shingakki",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14753-FKgfBa6AO5wg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14753-FKgfBa6AO5wg.jpg"
+          },
+          "episodes": 6,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 98202,
+          "title": {
+            "romaji": "Tsuki ga Kirei",
+            "english": "Tsukigakirei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98202-H6RtsIMZPALF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98202-H6RtsIMZPALF.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10460,
+          "title": {
+            "romaji": "Kimi to Boku.",
+            "english": "You and Me."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10460-qvyyqn5teodZ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10460-qvyyqn5teodZ.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 9989,
+          "title": {
+            "romaji": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "english": "Anohana: The Flower We Saw That Day"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 4081,
+          "title": {
+            "romaji": "Natsume Yuujinchou",
+            "english": "Natsume's Book of Friends"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-33BLrdaPdZjP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-33BLrdaPdZjP.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10162,
+          "title": {
+            "romaji": "Usagi Drop",
+            "english": "Bunny Drop"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10162-BmPYG5zuJ7Qq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10162-BmPYG5zuJ7Qq.jpg"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 15379,
+          "title": {
+            "romaji": "Kotoura-san",
+            "english": "The Troubled Life of Miss Kotoura"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15379-tSZbUJQzAvRi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15379-tSZbUJQzAvRi.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 6045,
+          "title": {
+            "romaji": "Kimi ni Todoke",
+            "english": "Kimi ni Todoke: From Me to You"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6045-txJOukR5Qve4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6045-txJOukR5Qve4.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 124080,
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-h8EPH92nyRfS.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 8525,
+          "title": {
+            "romaji": "Kami nomi zo Shiru Sekai",
+            "english": "The World God Only Knows"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8525-qakD1tUOk1Zu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8525-qakD1tUOk1Zu.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 8426,
+          "title": {
+            "romaji": "Hourou Musuko",
+            "english": "Wandering Son"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8426-3TGl33MEmhxv.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8426-3TGl33MEmhxv.png"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 133965,
+          "title": {
+            "romaji": "Komi-san wa, Komyushou desu.",
+            "english": "Komi Can’t Communicate"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133965-9TZBS4m4yvED.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133965-9TZBS4m4yvED.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 131548,
+          "title": {
+            "romaji": "Akebi-chan no Sailor Fuku",
+            "english": "Akebi’s Sailor Uniform"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131548-4OXik3SWOaee.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131548-4OXik3SWOaee.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 137281,
+          "title": {
+            "romaji": "Aharen-san wa Hakarenai",
+            "english": "Aharen-san wa Hakarenai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-kSbcUUCqUf8m.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137281-kSbcUUCqUf8m.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 128223,
+          "title": {
+            "romaji": "Soredemo Ayumu wa Yosetekuru",
+            "english": "When Will Ayumu Make His Move?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128223-TOQovu2MXr8k.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128223-TOQovu2MXr8k.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 143653,
+          "title": {
+            "romaji": "Kimi wa Houkago Insomnia",
+            "english": "Insomniacs after school"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143653-h6NEdWxKIRza.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143653-h6NEdWxKIRza.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 157295,
+          "title": {
+            "romaji": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+            "english": "My Clueless First Friend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157295-vHEo07yAAF1L.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157295-vHEo07yAAF1L.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 160188,
+          "title": {
+            "romaji": "Suki na Ko ga Megane wo Wasureta",
+            "english": "The Girl I Like Forgot Her Glasses"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160188-4RvYLaru3vKj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160188-4RvYLaru3vKj.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 99468,
+          "title": {
+            "romaji": "Karakai Jouzu no Takagi-san",
+            "english": "Teasing Master Takagi-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99468-XayCplkIL3Gf.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99468-XayCplkIL3Gf.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21050,
+          "title": {
+            "romaji": "Momokuri",
+            "english": "Momokuri"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21050-jGDgfWrFdCIJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21050-jGDgfWrFdCIJ.jpg"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 96634,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Yuuki",
+            "last": "Hase",
+            "full": "Yuuki Hase",
+            "native": "長谷祐樹",
+            "userPreferred": "Yuuki Hase"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88038.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 118591,
+              "name": {
+                "first": "Yoshitaka",
+                "middle": null,
+                "last": "Yamaya",
+                "full": "Yoshitaka Yamaya",
+                "native": "山谷祥生",
+                "userPreferred": "Yoshitaka Yamaya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118591-rOO8iwizHVUV.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 119591,
+              "name": {
+                "first": "Christian",
+                "middle": null,
+                "last": "Zeiger",
+                "full": "Christian Zeiger",
+                "native": null,
+                "userPreferred": "Christian Zeiger"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119591-Cqkp0MiISslJ.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97559,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Shougo",
+            "last": "Kiryuu",
+            "full": "Shougo Kiryuu",
+            "native": "桐生将吾",
+            "userPreferred": "Shougo Kiryuu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88162.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 100626,
+              "name": {
+                "first": "Yoshimasa",
+                "middle": null,
+                "last": "Hosoya",
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正",
+                "userPreferred": "Yoshimasa Hosoya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 135846,
+              "name": {
+                "first": "Nick",
+                "middle": null,
+                "last": "Forsberg",
+                "full": "Nick Forsberg",
+                "native": null,
+                "userPreferred": "Nick Forsberg"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135846-2ptkaVYIxdQX.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97892,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Shiho",
+            "last": "Fujimiya",
+            "full": "Shiho Fujimiya",
+            "native": "藤宮志穂",
+            "userPreferred": "Shiho Fujimiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88268.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95031,
+              "name": {
+                "first": "Mai",
+                "middle": null,
+                "last": "Nakahara",
+                "full": "Mai Nakahara",
+                "native": "中原麻衣",
+                "userPreferred": "Mai Nakahara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 103549,
+              "name": {
+                "first": "Antje",
+                "middle": null,
+                "last": "von der Ahe",
+                "full": "Antje von der Ahe",
+                "native": null,
+                "userPreferred": "Antje von der Ahe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8549.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97893,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Jun",
+            "last": "Inoue",
+            "full": "Jun Inoue",
+            "native": "井上潤",
+            "userPreferred": "Jun Inoue"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88269.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95820,
+              "name": {
+                "first": "Junji",
+                "middle": null,
+                "last": "Majima",
+                "full": "Junji Majima",
+                "native": "間島淳司",
+                "userPreferred": "Junji Majima"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95820-5Fuosf1ljdSc.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 135850,
+              "name": {
+                "first": "Marios",
+                "middle": null,
+                "last": "Gavrilis",
+                "full": "Marios Gavrilis",
+                "native": null,
+                "userPreferred": "Marios Gavrilis"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135850-ozr10JLFwKxz.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97894,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Hajime",
+            "last": "Kujou",
+            "full": "Hajime Kujou",
+            "native": "九条一",
+            "userPreferred": "Hajime Kujou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88270.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95186,
+              "name": {
+                "first": "Shintarou",
+                "middle": null,
+                "last": "Asanuma",
+                "full": "Shintarou Asanuma",
+                "native": "浅沼晋太郎",
+                "userPreferred": "Shintarou Asanuma"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95186-XMdPPqYhMrwN.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 103757,
+              "name": {
+                "first": "René",
+                "middle": null,
+                "last": "Dawn-Claude",
+                "full": "René Dawn-Claude",
+                "native": null,
+                "userPreferred": "René Dawn-Claude"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8757.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97895,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ai",
+            "last": "Nishimura",
+            "full": "Ai Nishimura",
+            "native": "西村藍",
+            "userPreferred": "Ai Nishimura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88271.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 118444,
+              "name": {
+                "first": "Rui",
+                "middle": null,
+                "last": "Tanabe",
+                "full": "Rui Tanabe",
+                "native": "田辺留依",
+                "userPreferred": "Rui Tanabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118444-ftV3GueuH2WQ.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96652,
+              "name": {
+                "first": "Oona",
+                "middle": null,
+                "last": "Plany",
+                "full": "Oona Plany",
+                "native": null,
+                "userPreferred": "Oona Plany"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1652.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97896,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Maiko",
+            "last": "Serizawa",
+            "full": "Maiko Serizawa",
+            "native": "芹沢舞子",
+            "userPreferred": "Maiko Serizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88272-hbYmiduNuF8E.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 118599,
+              "name": {
+                "first": "Asuka",
+                "middle": null,
+                "last": "Kakumoto",
+                "full": "Asuka Kakumoto",
+                "native": "角元明日香",
+                "userPreferred": "Asuka Kakumoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118599-8FZBWz3PWqYD.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 138579,
+              "name": {
+                "first": "Jasmin",
+                "middle": null,
+                "last": "Arnoldt",
+                "full": "Jasmin Arnoldt",
+                "native": null,
+                "userPreferred": "Jasmin Arnoldt"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138579-GxnYFzUaP7ZV.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97897,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Saki",
+            "last": "Yamagishi",
+            "full": "Saki Yamagishi",
+            "native": "山岸沙希",
+            "userPreferred": "Saki Yamagishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88273.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 107041,
+              "name": {
+                "first": "Rumi",
+                "middle": null,
+                "last": "Ookubo",
+                "full": "Rumi Ookubo",
+                "native": "大久保瑠美",
+                "userPreferred": "Rumi Ookubo"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 138738,
+              "name": {
+                "first": "Charlotte",
+                "middle": null,
+                "last": "Uhlig",
+                "full": "Charlotte Uhlig",
+                "native": null,
+                "userPreferred": "Charlotte Uhlig"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138738-merLp1ufa0Gz.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 99303,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Kaori",
+            "last": "Fujimiya",
+            "full": "Kaori Fujimiya",
+            "native": "藤宮香織",
+            "userPreferred": "Kaori Fujimiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/88037.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 116517,
+              "name": {
+                "first": "Sora",
+                "middle": null,
+                "last": "Amamiya",
+                "full": "Sora Amamiya",
+                "native": "雨宮天",
+                "userPreferred": "Sora Amamiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 141337,
+              "name": {
+                "first": "Sarah",
+                "middle": null,
+                "last": "Tkotsch",
+                "full": "Sarah Tkotsch",
+                "native": null,
+                "userPreferred": "Sarah Tkotsch"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141337-ucvmcETR1pts.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
