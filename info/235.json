@@ -1,0 +1,3436 @@
+{
+  "id": 235,
+  "idMal": 235,
+  "title": {
+    "romaji": "Meitantei Conan",
+    "english": "Case Closed",
+    "userPreferred": "Meitantei Conan"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-XucEZpR3CRaV.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg",
+    "color": "#28a1e4"
+  },
+  "description": "Kudo Shinichi is a seventeen year-old high school detective whom people call the \"Modern Sherlock Holmes.\" However, one night after a date with his childhood sweetheart, Ran, Shinichi witnessed an illegal trade and, caught off his guard, was knocked unconscious and fed a drug that was supposed to kill him... but he woke up and found himself shrunken to a seven year-old. In order to track down the men who did this to him, Shinichi hid his identity and lived with Ran, whose father happened to be a hopeless detective, and with that came a series of murders and mysteries that he must solve. <br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note:<br>\n- Includes Keisatsu Gakkou-hen - Wild Police Story in episodes 1029, 1038, 1042, 1061<br>\n- Episodes 11, 52, 76, 118, 162, 184, 208, 342, 356, 449, 452, 487, 488, 489, 490, 515, 516, 521, 522, 651, 734, 804, 805, 927, 928 aired with a runtime of ~50 minutes as opposed to the standard 25 minute long episode.<br>\n- Episodes 96, 129, 174, 219, 263, 304, 383, 479 aired with a runtime of ~90 minutes as opposed to the standard 25 minute long episode.<br>\n- Episode 345, 425 aired with a runtime of ~115 minutes as opposed to the standard 25 minute long episode.<br>\n</i>",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+  "episodes": null,
+  "status": "RELEASING",
+  "duration": 25,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Psychological"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 1996,
+  "season": "WINTER",
+  "format": "TV",
+  "averageScore": 81,
+  "popularity": 59677,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": {
+    "airingAt": 1717837200,
+    "episode": 1126
+  },
+  "startDate": {
+    "year": 1996,
+    "month": 1,
+    "day": 8
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "trailer": null,
+  "studios": {
+    "nodes": [
+      {
+        "id": 73,
+        "name": "TMS Entertainment",
+        "siteUrl": "https://anilist.co/studio/73"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 31061,
+          "title": {
+            "romaji": "Meitantei Conan",
+            "native": "名探偵コナン",
+            "english": "Case Closed"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31061-SJQb7931MG7m.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31061-SJQb7931MG7m.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "RELEASING"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 779,
+          "title": {
+            "romaji": "Meitantei Conan: Tokei Jikake no Matenrou",
+            "native": "名探偵コナン 時計じかけの摩天楼",
+            "english": "Case Closed: The Time Bombed Skyscraper"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx779-xc5cHSos8DKn.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx779-xc5cHSos8DKn.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 780,
+          "title": {
+            "romaji": "Meitantei Conan: Juuyonbanme no Target",
+            "native": "名探偵コナン １４番目の標的",
+            "english": "Case Closed: The Fourteenth Target"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b780-hxqAnXzg8DX4.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b780-hxqAnXzg8DX4.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 781,
+          "title": {
+            "romaji": "Meitantei Conan: Seikimatsu no Majutsushi",
+            "native": "名探偵コナン 世紀末の魔術師",
+            "english": "Case Closed: The Last Wizard of the Century"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx781-5VSeE53N40BF.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx781-5VSeE53N40BF.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1363,
+          "title": {
+            "romaji": "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+            "native": "名探偵コナン　瞳の中の暗殺者",
+            "english": "Case Closed: Captured In Her Eyes"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1363-KeaIofC3kYaZ.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1363-KeaIofC3kYaZ.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1364,
+          "title": {
+            "romaji": "Meitantei Conan: Tengoku e no Count Down",
+            "native": "名探偵コナン 天国へのカウントダウン",
+            "english": "Case Closed: Countdown to Heaven"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1364-tlZLDeDo8W0z.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1364-tlZLDeDo8W0z.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1365,
+          "title": {
+            "romaji": "Meitantei Conan: Baker Street no Bourei",
+            "native": "名探偵コナン　ベイカー街(ストリート)の亡霊",
+            "english": "Case Closed: The Phantom of Baker Street"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1366,
+          "title": {
+            "romaji": "Meitantei Conan: Meikyuu no Crossroad",
+            "native": "名探偵コナン 迷宮の十字路(クロスロード)",
+            "english": "Case Closed: Crossroad in the Ancient Capital"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1366-76LNoYLEqaxv.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1367,
+          "title": {
+            "romaji": "Meitantei Conan: Ginyoku no Magician",
+            "native": "名探偵コナン 銀翼の奇術師[マジシャン]",
+            "english": "Case Closed: Magician of the Silver Sky"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1367-cJLBjSfqBmRY.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1367-cJLBjSfqBmRY.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1505,
+          "title": {
+            "romaji": "Meitantei Conan: Suihei Senjou no Sutoratejii",
+            "native": "名探偵コナン　水平線上の陰謀",
+            "english": "Case Closed: Strategy Above the Depths"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1505-1ARTmIc0Ryh6.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1505-1ARTmIc0Ryh6.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1506,
+          "title": {
+            "romaji": "Meitantei Conan: Tantei-tachi no Requiem",
+            "native": "名探偵コナン　探偵たちの鎮魂歌[レクイエム]",
+            "english": "Case Closed: Requiem of the Detectives"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2171,
+          "title": {
+            "romaji": "Meitantei Conan: Konpeki no Hitsugi (Jolly Roger)",
+            "native": "名探偵コナン 紺碧の棺 （ジョリー・ロジャー）",
+            "english": "Case Closed: Jolly Roger in the Deep Azure"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2171-WiAcCpinTRvs.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2171-WiAcCpinTRvs.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2512,
+          "title": {
+            "romaji": "Meitantei Conan: 16 Nin no Yougisha",
+            "native": "名探偵コナン 16人の容疑者!?",
+            "english": "Case Closed: 16 Suspects"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2512.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2512.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2515,
+          "title": {
+            "romaji": "Meitantei Conan: Hyouteki wa Kogoro! Shounen Tanteidan Maruchichousa",
+            "native": "名探偵コナン 標的は小五郎!!少年探偵団マル秘調査",
+            "english": "Case Closed: The Target is Kogoro! The Detective Boys' Secret Investigation"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2515.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2515.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2597,
+          "title": {
+            "romaji": "Meitantei Conan: Agasa-sensei no Chousenjou! Agasa vs Conan & Shounen Tanteidan",
+            "native": "名探偵コナン 阿笠からの挑戦状! 阿笠vsコナン&少年探偵団",
+            "english": "Case Closed: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2597.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2597.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 4447,
+          "title": {
+            "romaji": "Meitantei Conan: Senritsu no Gakufu (Full Score)",
+            "native": "名探偵コナン 戦慄の楽譜（フルスコア）",
+            "english": "Case Closed: Full Score of Fear"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4447-aztQrCRbw1OK.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4447-aztQrCRbw1OK.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 5348,
+          "title": {
+            "romaji": "Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken",
+            "native": "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～",
+            "english": "Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5348-tE3vO3tcPVcR.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5348-tE3vO3tcPVcR.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 5460,
+          "title": {
+            "romaji": "Meitantei Conan: Shikkoku no Chaser",
+            "native": "名探偵コナン漆黒の追跡者(チェイサー)",
+            "english": "Case Closed: The Jet Black Chaser"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5460-z2qeEVBe01dW.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5460-z2qeEVBe01dW.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6115,
+          "title": {
+            "romaji": "Lupin III vs Meitantei Conan",
+            "native": "ルパン三世 vs 名探偵コナン",
+            "english": "Lupin the 3rd Vs Detective Conan"
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6115.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6115.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6198,
+          "title": {
+            "romaji": "Meitantei Conan: Joshi Kousein Tantei Suzuki Sonoko no Jikenbo",
+            "native": "名探偵コナン 女子高生探偵　鈴木園子の事件簿",
+            "english": "Case Closed: High School Girl Detective Sonoko Suzuki's Case Files"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6198.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6198.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6231,
+          "title": {
+            "romaji": "Meitantei Conan Magic File 3: Shinichi to Ran Mahjong Pai to Tanabata no Omoide",
+            "native": "名探偵コナン Magic File 3 新一と蘭 麻雀牌と七夕の思い出",
+            "english": "Case Closed Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6231.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6231.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6438,
+          "title": {
+            "romaji": "Meitantei Conan: 10 Nengo no Stranger",
+            "native": "名探偵コナン～10年後の異邦人[ストレンジャー]～",
+            "english": "Case Closed: The Stranger in 10 Years..."
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6438.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6438.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6467,
+          "title": {
+            "romaji": "Meitantei Conan: Tenkuu no Lost Ship",
+            "native": "名探偵コナン 天空の難破船",
+            "english": "Case Closed: The Lost Ship in the Sky"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6467-P24FJYtNRpyE.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6467-P24FJYtNRpyE.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 8331,
+          "title": {
+            "romaji": "Meitantei Conan MAGIC FILE 4: Osaka Okonomiyaki Odyssey",
+            "native": "名探偵コナンMAGIC FILE 4 ～大阪お好み焼きオデッセイ～",
+            "english": "Case Closed Magic File 4: Osaka Okonomiyaki Odyssey"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8331.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8331.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 8609,
+          "title": {
+            "romaji": "Meitantei Conan: KID in TRAP ISLAND",
+            "native": "名探偵コナン ～KID in TRAP ISLAND～",
+            "english": "Case Closed: Kid in Trap Island"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8609.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8609.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 9963,
+          "title": {
+            "romaji": "Meitantei Conan: Chinmoku no Quarter",
+            "native": "名探偵コナン 沈黙の15分",
+            "english": "Case Closed: Quarter of Silence"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9963-U5oy6aGrpTch.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9963-U5oy6aGrpTch.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 10531,
+          "title": {
+            "romaji": "Meitantei Conan MAGIC FILE 2011: Niigata - Tokyo Omiyage Capriccio",
+            "native": "名探偵コナン MAGIC FILE 2011 ～新潟～東京 おみやげ狂騒曲（カプリチオ）～",
+            "english": "Case Closed Magic File 5: Niigata - Tokyo Omiyage Capriccio"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10531.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10531.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 12117,
+          "title": {
+            "romaji": "Meitantei Conan: 11 Nin-me no Striker",
+            "native": "劇場版　名探偵コナン　11人目のストライカー",
+            "english": "Case Closed: The Eleventh Striker"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12117-wCtSIeqrMhTZ.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12117-wCtSIeqrMhTZ.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 14735,
+          "title": {
+            "romaji": "Meitantei Conan: Sekkai no Private Eye",
+            "native": "名探偵コナン・絶海の探偵",
+            "english": "Case Closed: Private Eye in the Distant Sea"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14735-RIyq7XzIIzcc.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14735-RIyq7XzIIzcc.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 20546,
+          "title": {
+            "romaji": "Meitantei Conan: Ijigen no Sniper",
+            "native": "名探偵コナン　異次元の狙撃手（スナイパー）",
+            "english": "Case Closed: The Sniper from Another Dimension"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20546-3etnJUBqpEdJ.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20546-3etnJUBqpEdJ.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 20859,
+          "title": {
+            "romaji": "Toubousha Mouri Kogorou",
+            "native": "逃亡者・毛利小五郎",
+            "english": "Case Closed: The Fugitive Kogorou Mouri"
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20859.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20859.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 20878,
+          "title": {
+            "romaji": "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
+            "native": "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
+            "english": "The Disappearance of Conan Edogawa: The Worst Two Days in History"
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20878-p6VBv7uw1QFV.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20878-p6VBv7uw1QFV.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21470,
+          "title": {
+            "romaji": "Meitantei Conan: Junkoku no Nightmare",
+            "native": "名探偵コナン 純黒の悪夢(ナイトメア)",
+            "english": "Case Closed: The Darkest Nightmare"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21470-huY2vyX3Ej2z.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21470-huY2vyX3Ej2z.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 21646,
+          "title": {
+            "romaji": "Meitantei Conan: Gouka no Himawari",
+            "native": "映画 名探偵コナン 業火の向日葵",
+            "english": "Case Closed: Sunflowers of Inferno"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21646-N6cVkCIx9KsP.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21646-N6cVkCIx9KsP.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 98222,
+          "title": {
+            "romaji": "Meitantei Conan: Kara Kurenai Love Letter",
+            "native": "名探偵コナンから紅の恋歌",
+            "english": "Case Closed: Crimson Love Letter"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98222-PT0Ob1qkGDUW.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98222-PT0Ob1qkGDUW.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 98604,
+          "title": {
+            "romaji": "Meitantei Conan Episode \"ONE\" Chiisakunatta Meitantei",
+            "native": "名探偵コナン エピソード\"ONE\" 小さくなった名探偵",
+            "english": "Case Closed: Episode One - The Great Detective Turned Small"
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98604-rf0L8MoJ8FJB.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98604-rf0L8MoJ8FJB.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1368,
+          "title": {
+            "romaji": "Meitantei Conan: Kieta Daiya wo Oe! Conan & Heiji vs Kid!",
+            "native": "名探偵コナン 消えたダイヤを追え! コナン・平次vsキッド!",
+            "english": null
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1368.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1368.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 100653,
+          "title": {
+            "romaji": "Meitantei Conan: Zero no Shikkounin",
+            "native": "名探偵コナン ゼロの執行人",
+            "english": "Case Closed: Zero the Enforcer"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100653-keuPmvVKDkhx.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100653-keuPmvVKDkhx.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 13837,
+          "title": {
+            "romaji": "Meitantei Conan BONUS FILE: Fantasista no Hana",
+            "native": "名探偵コナン BONUS FILE ファンタジスタの花",
+            "english": "Case Closed Magic File 6: Fantasista Flower"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13837.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13837.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 10703,
+          "title": {
+            "romaji": "Meitantei Conan: London kara no Maru Hi Shirei",
+            "native": "名探偵コナン ～ロンドンからの㊙指令 (ロンドンからのマル秘指令)",
+            "english": "Case Closed: A Secret Order from London"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10703.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10703.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 13839,
+          "title": {
+            "romaji": "Meitantei Conan: Excalibur no Kiseki",
+            "native": "名探偵コナン　えくすかりばあの奇跡",
+            "english": "Case Closed: The Miracle of Excalibur"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13839-uYl1cuYtRZ8l.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13839-uYl1cuYtRZ8l.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 106206,
+          "title": {
+            "romaji": "Meitantei Conan: Konjou no Fist",
+            "native": "名探偵コナン 紺青の拳（フィスト）",
+            "english": "Case Closed: The Fist of Blue Sapphire"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106206-OPpExaXYKUAD.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106206-OPpExaXYKUAD.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2514,
+          "title": {
+            "romaji": "Meitantei Conan: Conan to Kid to Crystal Mother",
+            "native": "名探偵コナン: コナンとキッドとクリスタルマザー",
+            "english": "Case Closed: Conan and Kid and Crystal Mother"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2514.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2514.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 2513,
+          "title": {
+            "romaji": "Meitantei Conan: Conan to Heiji to Kieta Shounen",
+            "native": "名探偵コナン: コナンと平次と消えた少年",
+            "english": "Case Closed: Conan and Heiji and the Vanished Boy"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2513.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2513.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 1369,
+          "title": {
+            "romaji": "Meitantei Conan: Conan VS KID VS YAIBA",
+            "native": "名探偵コナン: Conan VS KID VS YAIBA",
+            "english": "Case Closed: Conan vs. Kid vs. Yaiba"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1369.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1369.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 10766,
+          "title": {
+            "romaji": "Meitantei Conan vs. Wooo",
+            "native": "名探偵コナン vs Wooo",
+            "english": "Detective Conan vs. Wooo"
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10766.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10766.jpg"
+          },
+          "episodes": 2,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 113653,
+          "title": {
+            "romaji": "Meitantei Conan: Hiiro no Dangan",
+            "native": "名探偵コナン 緋色の弾丸",
+            "english": "Case Closed: The Scarlet Bullet"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113653-HY0suLnhIlA6.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113653-HY0suLnhIlA6.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 20790,
+          "title": {
+            "romaji": "Magic Kaito 1412",
+            "native": "まじっく快斗1412",
+            "english": "Magic Kaito 1412"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20790-yR5kJrai3zPg.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20790-yR5kJrai3zPg.jpg"
+          },
+          "episodes": 24,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 8310,
+          "title": {
+            "romaji": "Magic Kaito",
+            "native": "まじっく快斗",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8310-FfunDT6K2wZb.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8310-FfunDT6K2wZb.jpg"
+          },
+          "episodes": 12,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 131770,
+          "title": {
+            "romaji": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+            "native": "名探偵コナン 緋色の不在証明",
+            "english": null
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131770-thmn0mH6eDS7.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131770-thmn0mH6eDS7.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 31804,
+          "title": {
+            "romaji": "Magic Kaito",
+            "native": "まじっく快斗",
+            "english": null
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31804-5HYYxbsk3LWQ.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31804-5HYYxbsk3LWQ.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "RELEASING"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 18429,
+          "title": {
+            "romaji": "Lupin III vs. Meitantei Conan: THE MOVIE",
+            "native": "ルパン三世vs.名探偵コナン THE MOVIE",
+            "english": "Lupin the 3rd Vs Detective Conan: The Movie"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18429-vJz2zjLRRve8.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18429-vJz2zjLRRve8.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 139179,
+          "title": {
+            "romaji": "Meitantei Conan: Tokubetsu-hen - \"Kinga Shinnen Mouri Kogorou\"",
+            "native": "名探偵コナン 特別編 「謹賀新年 毛利小五郎」",
+            "english": "Case Closed: Happy New Year, Kogoro Mouri "
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139179-mMEeOhpGRwm8.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139179-mMEeOhpGRwm8.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 140002,
+          "title": {
+            "romaji": "Meitantei Conan: Zero no Tea Time",
+            "native": "名探偵コナン ゼロの日常（ティータイム）",
+            "english": "Detective Conan: Zero's Tea Time"
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140002-zbEoTkcXifOa.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140002-zbEoTkcXifOa.jpg"
+          },
+          "episodes": 6,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SPIN_OFF",
+        "node": {
+          "id": 140005,
+          "title": {
+            "romaji": "Meitantei Conan: Hannin no Hanzawa-san",
+            "native": "名探偵コナン 犯人の犯沢さん",
+            "english": "Detective Conan: The Culprit Hanzawa"
+          },
+          "format": "TV_SHORT",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140005-BMmsl94sUPsw.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140005-BMmsl94sUPsw.jpg"
+          },
+          "episodes": 12,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 142219,
+          "title": {
+            "romaji": "Meitantei Conan: Halloween no Hanayome",
+            "native": "名探偵コナン ハロウィンの花嫁",
+            "english": "Detective Conan: The Bride of Halloween"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142219-Nu9bWFhIKn0q.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142219-Nu9bWFhIKn0q.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 112094,
+          "title": {
+            "romaji": "Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story",
+            "native": "名探偵コナン 警察学校編 Wild Police Story",
+            "english": null
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112094-22vBgfweu1Yz.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112094-22vBgfweu1Yz.png"
+          },
+          "episodes": null,
+          "chapters": 13,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 9785,
+          "title": {
+            "romaji": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+            "native": "名探偵コナン コナンvsキッド SHARK & JEWEL",
+            "english": null
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9785.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9785.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 5578,
+          "title": {
+            "romaji": "Aoyama Goushou Tanpenshuu",
+            "native": "青山剛昌短編集",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5578-kcxJ0LgO7zql.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5578-kcxJ0LgO7zql.jpg"
+          },
+          "episodes": 7,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 31631,
+          "title": {
+            "romaji": "YAIBA",
+            "native": "YAIBA",
+            "english": null
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31631-nygEtfnhGNYD.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31631-nygEtfnhGNYD.jpg"
+          },
+          "episodes": null,
+          "chapters": 255,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 1293,
+          "title": {
+            "romaji": "Urusei Yatsura",
+            "native": "うる星やつら",
+            "english": "Urusei Yatsura"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1293-T6Ev080pKoum.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1293-T6Ev080pKoum.jpg"
+          },
+          "episodes": 195,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 9786,
+          "title": {
+            "romaji": "Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper",
+            "native": "名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)",
+            "english": null
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9786.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9786.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 156841,
+          "title": {
+            "romaji": "Meitantei Conan: Kurogane no Submarine",
+            "native": "名探偵コナン 黒鉄の魚影",
+            "english": "Detective Conan: Black Iron Submarine"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156841-UyR9YBwsLaoH.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156841-UyR9YBwsLaoH.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SUMMARY",
+        "node": {
+          "id": 158997,
+          "title": {
+            "romaji": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+            "native": "名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～",
+            "english": null
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158997-9HkllZFhiV5K.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158997-9HkllZFhiV5K.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 141208,
+          "title": {
+            "romaji": "Tonikaku Kawaii Season 2",
+            "native": "トニカクカワイイ（シーズン2）",
+            "english": "TONIKAWA: Over The Moon For You Season 2"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141208-On0qHKxo6P5t.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141208-On0qHKxo6P5t.png"
+          },
+          "episodes": 12,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 166060,
+          "title": {
+            "romaji": "Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story CASE. Furuya Rei",
+            "native": "名探偵コナン 警察学校編 Wild Police Story CASE.降谷零 ",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166060-aIhHMEwqLNi4.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166060-aIhHMEwqLNi4.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 169754,
+          "title": {
+            "romaji": "Meitantei Conan: 100-man Dol no Michishirube",
+            "native": "名探偵コナン 100万ドルの五稜星",
+            "english": "Case Closed: The Million-dollar Pentagram"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169754-QKY28ON9onrB.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169754-QKY28ON9onrB.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 177046,
+          "title": {
+            "romaji": "Meitantei Conan x McDonald's",
+            "native": "「名探偵コナン」×マクドナルド",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177046-ih7RaxC45GEg.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177046-ih7RaxC45GEg.png"
+          },
+          "episodes": 2,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 20790,
+          "title": {
+            "romaji": "Magic Kaito 1412",
+            "english": "Magic Kaito 1412"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20790-yR5kJrai3zPg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20790-yR5kJrai3zPg.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 8310,
+          "title": {
+            "romaji": "Magic Kaito",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8310-FfunDT6K2wZb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8310-FfunDT6K2wZb.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "SPECIAL",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1571,
+          "title": {
+            "romaji": "Ghost Hunt",
+            "english": "Ghost Hunt"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1571-rgWSFoPDZhzS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1571-rgWSFoPDZhzS.png"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21234,
+          "title": {
+            "romaji": "Boku dake ga Inai Machi",
+            "english": "ERASED"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21234-bCvWk2f58LCv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-bCvWk2f58LCv.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 407,
+          "title": {
+            "romaji": "Tantei Gakuen Q",
+            "english": "Detective School Q"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx407-W9afaUJfEsoR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx407-W9afaUJfEsoR.png"
+          },
+          "episodes": 45,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2076,
+          "title": {
+            "romaji": "Kindaichi Shounen no Jikenbo (TV)",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2076-vT2rhZTMroej.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2076-vT2rhZTMroej.jpg"
+          },
+          "episodes": 148,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1535,
+          "title": {
+            "romaji": "DEATH NOTE",
+            "english": "Death Note"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-4r88a1tsBEIz.jpg"
+          },
+          "episodes": 37,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 8425,
+          "title": {
+            "romaji": "GOSICK",
+            "english": "Gosick"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8425-Bn14ayPjnq9o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx8425-Bn14ayPjnq9o.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 6172,
+          "title": {
+            "romaji": "Layton Kyouju to Eien no Utahime",
+            "english": "Professor Layton and the Eternal Diva"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6172-QzPeTGnv3cD7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6172-QzPeTGnv3cD7.png"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100785,
+          "title": {
+            "romaji": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100785-3S9mEPpA7IhK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100785-3S9mEPpA7IhK.jpg"
+          },
+          "episodes": 50,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 19,
+          "title": {
+            "romaji": "MONSTER",
+            "english": "Monster"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-8Iz8KB1pJNil.jpg"
+          },
+          "episodes": 74,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20642,
+          "title": {
+            "romaji": "Kindaichi Shounen no Jikenbo R",
+            "english": "The File of Young Kindaichi Returns"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20642-canAURAeokUf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20642-canAURAeokUf.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2985,
+          "title": {
+            "romaji": "Majin Tantei Nougami Neuro",
+            "english": "Neuro: Supernatural Detective"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2985-tfv7c225KMCs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2985-tfv7c225KMCs.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1412,
+          "title": {
+            "romaji": "Lupin III",
+            "english": "Lupin the 3rd"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1412-70kA9bzDoleV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1412-70kA9bzDoleV.jpg"
+          },
+          "episodes": 23,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 114124,
+          "title": {
+            "romaji": "Yuukoku no Moriarty",
+            "english": "Moriarty the Patriot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114124-def92qPuIVeK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 12189,
+          "title": {
+            "romaji": "Hyouka",
+            "english": "Hyouka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12189-eBb6fcM21Zh7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-eBb6fcM21Zh7.jpg"
+          },
+          "episodes": 22,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 124858,
+          "title": {
+            "romaji": "Yuukoku no Moriarty Part 2",
+            "english": "Moriarty the Patriot Part 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124858-96RtyVSgUYnm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124858-96RtyVSgUYnm.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1844,
+          "title": {
+            "romaji": "CLAMP Gakuen Tanteidan",
+            "english": "CLAMP School Detectives"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1844-4tLpH2syumok.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1844-4tLpH2syumok.jpg"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 4756,
+          "title": {
+            "romaji": "Hello Harinezumi: File 170 Satsui no Ryoubun",
+            "english": "Domain of Murder"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4756-Piyk3Pvf25ZF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4756-Piyk3Pvf25ZF.png"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1372,
+          "title": {
+            "romaji": "Taiho Shichauzo (TV)",
+            "english": "You're Under Arrest! (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1372-Q1B078xXbu2c.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1372-Q1B078xXbu2c.png"
+          },
+          "episodes": 47,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10798,
+          "title": {
+            "romaji": "UN-GO",
+            "english": "UN-GO"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10798-C8caHKEm5uTa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10798-C8caHKEm5uTa.jpg"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 110350,
+          "title": {
+            "romaji": "ID: INVADED",
+            "english": "ID: INVADED"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110350-uchN78wglmhN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110350-uchN78wglmhN.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1246,
+          "title": {
+            "romaji": "Yuugo: Negotiator",
+            "english": "Yugo the Negotiator"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1246-df5amcJVMnsN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1246-df5amcJVMnsN.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21286,
+          "title": {
+            "romaji": "Kindaichi Shounen no Jikenbo R 2",
+            "english": "The File of Young Kindaichi Returns 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21286-OIyxGNhBSscB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21286-OIyxGNhBSscB.jpg"
+          },
+          "episodes": 22,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 2204,
+          "title": {
+            "romaji": "Karakuri Zoushi Ayatsuri Sakon",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2204-9CfJv6BWS3hx.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2204-9CfJv6BWS3hx.png"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 1157,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Takao",
+            "last": "Gotou",
+            "full": "Takao Gotou",
+            "native": "後藤貴雄",
+            "userPreferred": "Takao Gotou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71957-iBONa4bIGesO.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95002,
+              "name": {
+                "first": "Tomokazu",
+                "middle": null,
+                "last": "Sugita",
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和",
+                "userPreferred": "Tomokazu Sugita"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1158,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Yasuji",
+            "last": "Kaita",
+            "full": "Yasuji Kaita",
+            "native": null,
+            "userPreferred": "Yasuji Kaita"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/86485.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95002,
+              "name": {
+                "first": "Tomokazu",
+                "middle": null,
+                "last": "Sugita",
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和",
+                "userPreferred": "Tomokazu Sugita"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1774,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Hisashi",
+            "last": "Kijima",
+            "full": "Hisashi Kijima",
+            "native": "木島久",
+            "userPreferred": "Hisashi Kijima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71959-4x7l3PQqYHjF.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95006,
+              "name": {
+                "first": "Toshiyuki",
+                "middle": null,
+                "last": "Morikawa",
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之",
+                "userPreferred": "Toshiyuki Morikawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 2017,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Haruka",
+            "last": "Ishikawa",
+            "full": "Haruka Ishikawa",
+            "native": "石川春香",
+            "userPreferred": "Haruka Ishikawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53791-Lw4w8B2Rsr7p.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95008,
+              "name": {
+                "first": "Rie",
+                "middle": null,
+                "last": "Kugimiya",
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵",
+                "userPreferred": "Rie Kugimiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 2286,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Hidemi",
+            "last": "Hondou",
+            "full": "Hidemi Hondou",
+            "native": "本堂瑛海",
+            "userPreferred": "Hidemi Hondou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26755-SaPTeSG111g8.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95009,
+              "name": {
+                "first": "Kotono",
+                "middle": null,
+                "last": "Mitsuishi",
+                "full": "Kotono Mitsuishi",
+                "native": "三石琴乃",
+                "userPreferred": "Kotono Mitsuishi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96284,
+              "name": {
+                "first": "Jolanda",
+                "middle": null,
+                "last": "Granato",
+                "full": "Jolanda Granato",
+                "native": null,
+                "userPreferred": "Jolanda Granato"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1284.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3016,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ai",
+            "last": "Haibara",
+            "full": "Ai Haibara",
+            "native": "灰原哀",
+            "userPreferred": "Ai Haibara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95014,
+              "name": {
+                "first": "Megumi",
+                "middle": null,
+                "last": "Hayashibara",
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ",
+                "userPreferred": "Megumi Hayashibara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109773,
+              "name": {
+                "first": "Jeong sin",
+                "middle": null,
+                "last": "Wu",
+                "full": "Jeong sin Wu",
+                "native": "정신 우",
+                "userPreferred": "Jeong sin Wu"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14773.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109277,
+              "name": {
+                "first": "Silvia",
+                "middle": null,
+                "last": "Sarmentera",
+                "full": "Silvia Sarmentera",
+                "native": null,
+                "userPreferred": "Silvia Sarmentera"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14277.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144233,
+              "name": {
+                "first": "Tosawi",
+                "middle": null,
+                "last": "Piovani",
+                "full": "Tosawi Piovani",
+                "native": null,
+                "userPreferred": "Tosawi Piovani"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144233-d9bYMnvqZxwT.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144232,
+              "name": {
+                "first": "Andrea",
+                "middle": null,
+                "last": "Loewig",
+                "full": "Andrea Loewig",
+                "native": null,
+                "userPreferred": "Andrea Loewig"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144232-fAYKk7hlZYE7.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 158222,
+              "name": {
+                "first": "Laetitia",
+                "middle": null,
+                "last": "Liénart",
+                "full": "Laetitia Liénart",
+                "native": null,
+                "userPreferred": "Laetitia Liénart"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96291,
+              "name": {
+                "first": "Federica",
+                "middle": null,
+                "last": "Valenti",
+                "full": "Federica Valenti",
+                "native": null,
+                "userPreferred": "Federica Valenti"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1291.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 188807,
+              "name": {
+                "first": "Mengmeng",
+                "middle": null,
+                "last": "Yan",
+                "full": "Mengmeng Yan",
+                "native": "阎萌萌",
+                "userPreferred": "Mengmeng Yan"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188807-CMMA4fl7jh1w.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 103492,
+              "name": {
+                "first": "Xanthe",
+                "middle": null,
+                "last": "Huynh",
+                "full": "Xanthe Huynh",
+                "native": null,
+                "userPreferred": "Xanthe Huynh"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103492-YqlKopMMRRo3.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3017,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Akako",
+            "last": "Koizumi",
+            "full": "Akako Koizumi",
+            "native": "小泉紅子",
+            "userPreferred": "Akako Koizumi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13974-1S6Yuv1DDKiC.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95014,
+              "name": {
+                "first": "Megumi",
+                "middle": null,
+                "last": "Hayashibara",
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ",
+                "userPreferred": "Megumi Hayashibara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 138550,
+              "name": {
+                "first": "Sarah",
+                "middle": null,
+                "last": "Riedel",
+                "full": "Sarah Riedel",
+                "native": null,
+                "userPreferred": "Sarah Riedel"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138550-kKBv6mtn4j68.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 157960,
+              "name": {
+                "first": "Loredana",
+                "middle": null,
+                "last": "Nicosia",
+                "full": "Loredana Nicosia",
+                "native": null,
+                "userPreferred": "Loredana Nicosia"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n157960-EgmjMWY2ig6c.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3355,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Raito",
+            "last": "Egashira",
+            "full": "Raito Egashira",
+            "native": "江頭 頼人",
+            "userPreferred": "Raito Egashira"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53217-8nWLgEOBRlqt.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95016,
+              "name": {
+                "first": "Noriaki",
+                "middle": null,
+                "last": "Sugiyama",
+                "full": "Noriaki Sugiyama",
+                "native": "杉山紀彰",
+                "userPreferred": "Noriaki Sugiyama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3440,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Ichirou",
+            "last": "Hatamoto",
+            "full": "Ichirou Hatamoto",
+            "native": "旗本一郎",
+            "userPreferred": "Ichirou Hatamoto"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71961-FTXvxdV9W4r4.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95017,
+              "name": {
+                "first": "Akira",
+                "middle": null,
+                "last": "Ishida",
+                "full": "Akira Ishida",
+                "native": "石田彰",
+                "userPreferred": "Akira Ishida"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3441,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Saguru",
+            "last": "Hakuba",
+            "full": "Saguru Hakuba",
+            "native": "白馬探",
+            "userPreferred": "Saguru Hakuba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12129-qMd0K2FhKt1c.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95017,
+              "name": {
+                "first": "Akira",
+                "middle": null,
+                "last": "Ishida",
+                "full": "Akira Ishida",
+                "native": "石田彰",
+                "userPreferred": "Akira Ishida"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109759,
+              "name": {
+                "first": "Jae-Heon",
+                "middle": null,
+                "last": "Jeong",
+                "full": "Jae-Heon Jeong",
+                "native": "정재헌",
+                "userPreferred": "Jae-Heon Jeong"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109759-VMZn2P5P2ISK.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96283,
+              "name": {
+                "first": "Federico",
+                "middle": null,
+                "last": "Zanandrea",
+                "full": "Federico Zanandrea",
+                "native": null,
+                "userPreferred": "Federico Zanandrea"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96283-YUsH0Bw7dANE.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3668,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Teraoka",
+            "last": null,
+            "full": "Teraoka",
+            "native": null,
+            "userPreferred": "Teraoka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35671.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95018,
+              "name": {
+                "first": "Hidekatsu",
+                "middle": null,
+                "last": "Shibata",
+                "full": "Hidekatsu Shibata",
+                "native": "柴田秀勝",
+                "userPreferred": "Hidekatsu Shibata"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96336,
+              "name": {
+                "first": "Thomas",
+                "middle": "Edwin",
+                "last": "Blaylock, Jr.",
+                "full": "Thomas Blaylock, Jr.",
+                "native": null,
+                "userPreferred": "Thomas Edwin Blaylock, Jr."
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1336.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3866,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Sonsaku",
+            "last": "Tsujiei",
+            "full": "Sonsaku Tsujiei",
+            "native": "辻栄尊作",
+            "userPreferred": "Sonsaku Tsujiei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b57135-1WKDUViYcsk9.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95020,
+              "name": {
+                "first": "Katsuyuki",
+                "middle": null,
+                "last": "Konishi",
+                "full": "Katsuyuki Konishi",
+                "native": "小西克幸",
+                "userPreferred": "Katsuyuki Konishi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4054,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Takashi",
+            "last": "Date",
+            "full": "Takashi Date",
+            "native": "伊達高志",
+            "userPreferred": "Takashi Date"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b71963-bF2xGKEwzvKZ.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95021,
+              "name": {
+                "first": "Kazuhiko",
+                "middle": null,
+                "last": "Inoue",
+                "full": "Kazuhiko Inoue",
+                "native": "井上和彦",
+                "userPreferred": "Kazuhiko Inoue"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4055,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ninzaburo",
+            "last": "Shiratori",
+            "full": "Ninzaburo Shiratori",
+            "native": "白鳥任三郎",
+            "userPreferred": "Ninzaburo Shiratori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9180-1pTQwiTDZOTj.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95021,
+              "name": {
+                "first": "Kazuhiko",
+                "middle": null,
+                "last": "Inoue",
+                "full": "Kazuhiko Inoue",
+                "native": "井上和彦",
+                "userPreferred": "Kazuhiko Inoue"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95041,
+              "name": {
+                "first": "Takako",
+                "middle": null,
+                "last": "Honda",
+                "full": "Takako Honda",
+                "native": "本田貴子",
+                "userPreferred": "Takako Honda"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95424,
+              "name": {
+                "first": "Kaneto",
+                "middle": null,
+                "last": "Shiozawa",
+                "full": "Kaneto Shiozawa",
+                "native": "塩沢兼人",
+                "userPreferred": "Kaneto Shiozawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95424-Zd7vHDVhSWKs.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 139857,
+              "name": {
+                "first": "Thomas Nero",
+                "middle": null,
+                "last": "Wolff",
+                "full": "Thomas Nero Wolff",
+                "native": null,
+                "userPreferred": "Thomas Nero Wolff"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 106913,
+              "name": {
+                "first": "Alexander",
+                "middle": null,
+                "last": "Doering",
+                "full": "Alexander Doering",
+                "native": null,
+                "userPreferred": "Alexander Doering"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11913.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 104534,
+              "name": {
+                "first": "Marco",
+                "middle": null,
+                "last": "Balzarotti",
+                "full": "Marco Balzarotti",
+                "native": null,
+                "userPreferred": "Marco Balzarotti"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104534-lE9qihaiasGl.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96092,
+              "name": {
+                "first": "Claudio",
+                "middle": null,
+                "last": "Ridolfo",
+                "full": "Claudio Ridolfo",
+                "native": null,
+                "userPreferred": "Claudio Ridolfo"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96092-B1dDueqtjW1e.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 229175,
+              "name": {
+                "first": "Lingyun",
+                "middle": null,
+                "last": "Wu",
+                "full": "Lingyun Wu",
+                "native": "吴凌云",
+                "userPreferred": "Lingyun Wu"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229175-PDA4BsavxZ7o.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96289,
+              "name": {
+                "first": "Claudio",
+                "middle": null,
+                "last": "Moneta",
+                "full": "Claudio Moneta",
+                "native": null,
+                "userPreferred": "Claudio Moneta"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96289-6WavF68OhjWa.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4249,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Junya",
+            "last": "Tokitsu",
+            "full": "Junya Tokitsu",
+            "native": "時津潤哉",
+            "userPreferred": "Junya Tokitsu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49831-O39XC3dvP7d1.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95022,
+              "name": {
+                "first": "Shinichirou",
+                "middle": null,
+                "last": "Miki",
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎",
+                "userPreferred": "Shinichirou Miki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4530,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Minami",
+            "last": "Takayama",
+            "full": "Minami Takayama",
+            "native": "高山みなみ",
+            "userPreferred": "Minami Takayama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/35942.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95024,
+              "name": {
+                "first": "Minami",
+                "middle": null,
+                "last": "Takayama",
+                "full": "Minami Takayama",
+                "native": "高山みなみ",
+                "userPreferred": "Minami Takayama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95479,
+              "name": {
+                "first": "Alison",
+                "middle": null,
+                "last": "Viktorin",
+                "full": "Alison Viktorin",
+                "native": null,
+                "userPreferred": "Alison Viktorin"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/479.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 193060,
+              "name": {
+                "first": "Joël",
+                "middle": null,
+                "last": "Mulachs",
+                "full": "Joël Mulachs",
+                "native": null,
+                "userPreferred": "Joël Mulachs"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4531,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Conan",
+            "last": "Edogawa",
+            "full": "Conan Edogawa",
+            "native": "江戸川コナン",
+            "userPreferred": "Conan Edogawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95024,
+              "name": {
+                "first": "Minami",
+                "middle": null,
+                "last": "Takayama",
+                "full": "Minami Takayama",
+                "native": "高山みなみ",
+                "userPreferred": "Minami Takayama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95067,
+              "name": {
+                "first": "Kappei",
+                "middle": null,
+                "last": "Yamaguchi",
+                "full": "Kappei Yamaguchi",
+                "native": "山口勝平",
+                "userPreferred": "Kappei Yamaguchi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95302,
+              "name": {
+                "first": "Jerry",
+                "middle": null,
+                "last": "Jewell",
+                "full": "Jerry Jewell",
+                "native": null,
+                "userPreferred": "Jerry Jewell"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/302.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95479,
+              "name": {
+                "first": "Alison",
+                "middle": null,
+                "last": "Viktorin",
+                "full": "Alison Viktorin",
+                "native": null,
+                "userPreferred": "Alison Viktorin"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/479.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95498,
+              "name": {
+                "first": "Ioanna",
+                "middle": null,
+                "last": "Gkizas",
+                "full": "Ioanna Gkizas",
+                "native": null,
+                "userPreferred": "Ioanna Gkizas"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95498-OVbtnTawqlhe.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96160,
+              "name": {
+                "first": "Davide",
+                "middle": null,
+                "last": "Garbolino",
+                "full": "Davide Garbolino",
+                "native": null,
+                "userPreferred": "Davide Garbolino"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96160-f2iHwGVbtmun.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 101113,
+              "name": {
+                "first": "Tobias",
+                "middle": null,
+                "last": "Müller",
+                "full": "Tobias Müller",
+                "native": null,
+                "userPreferred": "Tobias Müller"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101113-oOyq4WIaNxHw.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 102228,
+              "name": {
+                "first": "Diana",
+                "middle": null,
+                "last": "Torres",
+                "full": "Diana Torres",
+                "native": null,
+                "userPreferred": "Diana Torres"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102228-wJ4LMWvbwJ0n.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 102858,
+              "name": {
+                "first": "Ádám",
+                "middle": null,
+                "last": "Czető",
+                "full": "Ádám Czető",
+                "native": null,
+                "userPreferred": "Ádám Czető"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7858.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 103020,
+              "name": {
+                "first": "Attila",
+                "middle": null,
+                "last": "Bartucz",
+                "full": "Attila Bartucz",
+                "native": null,
+                "userPreferred": "Attila Bartucz"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103020-XPpYLxynMBQg.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109753,
+              "name": {
+                "first": "Su Jin",
+                "middle": null,
+                "last": "Kang",
+                "full": "Su Jin Kang",
+                "native": "수진강",
+                "userPreferred": "Su Jin Kang"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109753-qqOQlkfARIzX.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109927,
+              "name": {
+                "first": "Seon Hye",
+                "middle": null,
+                "last": "Kim",
+                "full": "Seon Hye Kim",
+                "native": "선혜 김",
+                "userPreferred": "Seon Hye Kim"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14927.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 115512,
+              "name": {
+                "first": "Joseph",
+                "middle": null,
+                "last": "Murray",
+                "full": "Joseph Murray",
+                "native": null,
+                "userPreferred": "Joseph Murray"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20512.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144586,
+              "name": {
+                "first": "Irene",
+                "middle": null,
+                "last": "Scalzo",
+                "full": "Irene Scalzo",
+                "native": null,
+                "userPreferred": "Irene Scalzo"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144586-0fU4RDxMUb7D.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 104994,
+              "name": {
+                "first": "Monica",
+                "middle": null,
+                "last": "Bonetto",
+                "full": "Monica Bonetto",
+                "native": null,
+                "userPreferred": "Monica Bonetto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104994-nAYyglzPfhqC.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 158227,
+              "name": {
+                "first": "Bruno",
+                "middle": null,
+                "last": "Mullenaerts",
+                "full": "Bruno Mullenaerts",
+                "native": null,
+                "userPreferred": "Bruno Mullenaerts"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158227-ADa1018DQxtc.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 221838,
+              "name": {
+                "first": "Amal",
+                "middle": null,
+                "last": "Saad-Eddin",
+                "full": "Amal Saad-Eddin",
+                "native": "آمال سعد الدين",
+                "userPreferred": "Amal Saad-Eddin"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 229172,
+              "name": {
+                "first": "Shirong",
+                "middle": null,
+                "last": "Li",
+                "full": "Shirong Li",
+                "native": "李世荣",
+                "userPreferred": "Shirong Li"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229172-O6cfTWnEoSK9.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 164995,
+              "name": {
+                "first": "Ajie",
+                "middle": null,
+                "last": null,
+                "full": "Ajie",
+                "native": "阿杰",
+                "userPreferred": "Ajie"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164995-zxSiEWSGGkef.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 193060,
+              "name": {
+                "first": "Joël",
+                "middle": null,
+                "last": "Mulachs",
+                "full": "Joël Mulachs",
+                "native": null,
+                "userPreferred": "Joël Mulachs"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 243345,
+              "name": {
+                "first": "Mamoon",
+                "middle": null,
+                "last": "Al-Farkh",
+                "full": "Mamoon Al-Farkh",
+                "native": "مأمون الفرخ",
+                "userPreferred": "Mamoon Al-Farkh"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 105754,
+              "name": {
+                "first": "Darren",
+                "middle": null,
+                "last": "Pleavin",
+                "full": "Darren Pleavin",
+                "native": null,
+                "userPreferred": "Darren Pleavin"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10754.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 127645,
+              "name": {
+                "first": "Griffin",
+                "middle": null,
+                "last": "Burns",
+                "full": "Griffin Burns",
+                "native": null,
+                "userPreferred": "Griffin Burns"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127645-c4it4GkDYiuD.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95036,
+              "name": {
+                "first": "Wendee",
+                "middle": null,
+                "last": "Lee",
+                "full": "Wendee Lee",
+                "native": null,
+                "userPreferred": "Wendee Lee"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95036-UkyIYVtEhoPk.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4532,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Aoko",
+            "last": "Nakamori",
+            "full": "Aoko Nakamori",
+            "native": "中森青子",
+            "userPreferred": "Aoko Nakamori"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13972-IsOmi5I4SN6A.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95024,
+              "name": {
+                "first": "Minami",
+                "middle": null,
+                "last": "Takayama",
+                "full": "Minami Takayama",
+                "native": "高山みなみ",
+                "userPreferred": "Minami Takayama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96280,
+              "name": {
+                "first": "Elisabetta",
+                "middle": null,
+                "last": "Spinelli",
+                "full": "Elisabetta Spinelli",
+                "native": null,
+                "userPreferred": "Elisabetta Spinelli"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96280-Z4a9OF7HxJ75.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4851,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Mina",
+            "last": "Aoshima",
+            "full": "Mina Aoshima",
+            "native": "青島美菜",
+            "userPreferred": "Mina Aoshima"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41475-XTETpx2xrII9.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95027,
+              "name": {
+                "first": "Yukari",
+                "middle": null,
+                "last": "Tamura",
+                "full": "Yukari Tamura",
+                "native": "田村ゆかり",
+                "userPreferred": "Yukari Tamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95659,
+              "name": {
+                "first": "Brina",
+                "middle": null,
+                "last": "Palencia",
+                "full": "Brina Palencia",
+                "native": null,
+                "userPreferred": "Brina Palencia"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/659.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4852,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Yuka",
+            "last": "Konno",
+            "full": "Yuka Konno",
+            "native": null,
+            "userPreferred": "Yuka Konno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b49229-YcFFBuw63LO0.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95027,
+              "name": {
+                "first": "Yukari",
+                "middle": null,
+                "last": "Tamura",
+                "full": "Yukari Tamura",
+                "native": "田村ゆかり",
+                "userPreferred": "Yukari Tamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5320,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Tamanosuke",
+            "last": "Itou",
+            "full": "Tamanosuke Itou",
+            "native": "伊東玉之助",
+            "userPreferred": "Tamanosuke Itou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/41541.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95030,
+              "name": {
+                "first": "Souichirou",
+                "middle": null,
+                "last": "Hoshi",
+                "full": "Souichirou Hoshi",
+                "native": "保志総一朗",
+                "userPreferred": "Souichirou Hoshi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 6016,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Yasuyuki",
+            "last": "Murakawa",
+            "full": "Yasuyuki Murakawa",
+            "native": "村川康之",
+            "userPreferred": "Yasuyuki Murakawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41776-9ES6HRyyzxOj.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95037,
+              "name": {
+                "first": "Takayuki",
+                "middle": null,
+                "last": "Sugou",
+                "full": "Takayuki Sugou",
+                "native": "菅生隆之",
+                "userPreferred": "Takayuki Sugou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95037-LpJxoQ9ZHDUX.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 109025,
+              "name": {
+                "first": "Luis Vicente",
+                "middle": null,
+                "last": "Ivars",
+                "full": "Luis Vicente Ivars",
+                "native": null,
+                "userPreferred": "Luis Vicente Ivars"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 6194,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Saki",
+            "last": "Yoshizawa",
+            "full": "Saki Yoshizawa",
+            "native": "吉沢 咲",
+            "userPreferred": "Saki Yoshizawa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45493-h1SZWsodRRB6.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95040,
+              "name": {
+                "first": "Mamiko",
+                "middle": null,
+                "last": "Noto",
+                "full": "Mamiko Noto",
+                "native": "能登麻美子",
+                "userPreferred": "Mamiko Noto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 6195,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Mutsumi",
+            "last": "Suguri",
+            "full": "Mutsumi Suguri",
+            "native": "村主睦",
+            "userPreferred": "Mutsumi Suguri"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b57131-9mGrdEgaoNnX.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95040,
+              "name": {
+                "first": "Mamiko",
+                "middle": null,
+                "last": "Noto",
+                "full": "Mamiko Noto",
+                "native": "能登麻美子",
+                "userPreferred": "Mamiko Noto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 6767,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Shinpei",
+            "last": "Ookubo",
+            "full": "Shinpei Ookubo",
+            "native": "大久保晋平",
+            "userPreferred": "Shinpei Ookubo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41624-BXDzbcbKKmkn.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95045,
+              "name": {
+                "first": "Kouji",
+                "middle": null,
+                "last": "Ishii",
+                "full": "Kouji Ishii",
+                "native": "石井康嗣",
+                "userPreferred": "Kouji Ishii"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
