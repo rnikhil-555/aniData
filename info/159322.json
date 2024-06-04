@@ -119,6 +119,23 @@
     "nodes": [
       {
         "mediaRecommendation": {
+          "id": 269,
+          "title": {
+            "romaji": "BLEACH",
+            "english": "Bleach"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-wc062RMqud8B.png"
+          },
+          "episodes": 366,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
           "id": 8247,
           "title": {
             "romaji": "BLEACH: Jigoku-hen",
@@ -354,7 +371,7 @@
           "format": "TV",
           "nextAiringEpisode": {
             "airingAt": 1717893000,
-            "timeUntilAiring": 387642,
+            "timeUntilAiring": 382617,
             "episode": 1108
           }
         }
@@ -524,23 +541,6 @@
             "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154-hSYv4EtcBE1p.png"
           },
           "episodes": 64,
-          "status": "FINISHED",
-          "format": "TV",
-          "nextAiringEpisode": null
-        }
-      },
-      {
-        "mediaRecommendation": {
-          "id": 114236,
-          "title": {
-            "romaji": "Enen no Shouboutai: Ni no Shou",
-            "english": "Fire Force Season 2"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png"
-          },
-          "episodes": 24,
           "status": "FINISHED",
           "format": "TV",
           "nextAiringEpisode": null
