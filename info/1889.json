@@ -1,0 +1,1923 @@
+{
+  "id": 1889,
+  "idMal": 1889,
+  "title": {
+    "romaji": "Higurashi no Naku Koro ni Kai",
+    "english": "When They Cry Kai",
+    "userPreferred": "Higurashi no Naku Koro ni Kai"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1889-NqhWV3QwBXZl.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1889-NqhWV3QwBXZl.jpg",
+    "color": "#1a6ba1"
+  },
+  "description": "Continuing from the first series, Higurashi no Naku Koro ni Kai begins to shed some light on the dark mysteries prevalent in the preceding season. The young group of friends in the town of Hinamizawa continue to enter terrible conflicts with one another in their never ending summer of 1983, often ending with the brutal murder of one of their numbers. Furude Rika, with the help of her spiritual friend Hanyuu, tackles challenges over and over, trying her best to keep their lives from coming to a tragic end. With no end to the torture in sight, Rika must call upon the bonds of friendship and trust among her friends to discover the true villain of this eternal June.\n",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1889-cZ3RMG35FZSG.jpg",
+  "episodes": 24,
+  "status": "FINISHED",
+  "duration": 24,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Supernatural",
+    "Thriller"
+  ],
+  "source": "VISUAL_NOVEL",
+  "type": "ANIME",
+  "seasonYear": 2007,
+  "season": "SUMMER",
+  "format": "TV",
+  "averageScore": 79,
+  "popularity": 72910,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2007,
+    "month": 7,
+    "day": 6
+  },
+  "endDate": {
+    "year": 2007,
+    "month": 12,
+    "day": 18
+  },
+  "trailer": {
+    "id": "BPB15-_-nuA",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/BPB15-_-nuA/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 37,
+        "name": "Studio DEEN",
+        "siteUrl": "https://anilist.co/studio/37"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 934,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni",
+            "native": "ひぐらしのなく頃に",
+            "english": "When They Cry"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx934-iOgGyFcQWJBQ.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx934-iOgGyFcQWJBQ.jpg"
+          },
+          "episodes": 26,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 3652,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Rei",
+            "native": "ひぐらしのなく頃に礼",
+            "english": "When They Cry Rei"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3652-Q9wylyMoNZBc.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3652-Q9wylyMoNZBc.png"
+          },
+          "episodes": 5,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 39548,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kai: Minagoroshi-hen",
+            "native": "ひぐらしのなく頃に解 皆殺し編",
+            "english": "Higurashi WHEN THEY CRY: Massacre Arc"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39548-9rQ6qH45mqo9.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39548-9rQ6qH45mqo9.jpg"
+          },
+          "episodes": null,
+          "chapters": 25,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 39738,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kai: Matsuribayashi-hen",
+            "native": "ひぐらしのなく頃に解 祭囃し編",
+            "english": "Higurashi WHEN THEY CRY: Festival Accompanying Arc"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39738-jKXy7WdKAmHa.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39738-jKXy7WdKAmHa.jpg"
+          },
+          "episodes": null,
+          "chapters": 35,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 6064,
+          "title": {
+            "romaji": "Ura☆Higu",
+            "native": "うら☆ひぐ",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6064-egthtbmbr6tE.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6064-egthtbmbr6tE.jpg"
+          },
+          "episodes": 24,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 10491,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kira",
+            "native": "ひぐらしのなく頃に煌",
+            "english": null
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10491-v4eyoGFyXQR8.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10491-v4eyoGFyXQR8.jpg"
+          },
+          "episodes": 4,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 92546,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kai - Dai 4-wa: Matsuribayashi-hen",
+            "native": "ひぐらしのなく頃に解 第四話～祭囃し編～",
+            "english": null
+          },
+          "format": "NOVEL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92546-vz2Hpx45ftrN.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx92546-vz2Hpx45ftrN.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 92545,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kai - Dai 3-wa: Minagoroshi-hen",
+            "native": "ひぐらしのなく頃に解 第三話～皆殺し編～",
+            "english": null
+          },
+          "format": "NOVEL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b92545-9zQvjq3Ss0TR.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b92545-9zQvjq3Ss0TR.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 228,
+          "title": {
+            "romaji": "Jigoku Shoujo",
+            "english": "Hell Girl"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx228-J2J1CI4jfyeC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx228-J2J1CI4jfyeC.jpg"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 9253,
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 11111,
+          "title": {
+            "romaji": "Another",
+            "english": "Another"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-Y4QgkX8gJQCa.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11111-Y4QgkX8gJQCa.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21355,
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-IHaS50pvLYd0.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 13125,
+          "title": {
+            "romaji": "Shinsekai yori",
+            "english": "From the New World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13125-NdLjbmyHmoAD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 97986,
+          "title": {
+            "romaji": "Made in Abyss",
+            "english": "Made in Abyss"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-tXLonOO0vhHb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-tXLonOO0vhHb.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 114446,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Gou",
+            "english": "Higurashi: When They Cry - GOU"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114446-H6uxjVi8wBoo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114446-H6uxjVi8wBoo.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 20754,
+          "title": {
+            "romaji": "Gakkou Gurashi!",
+            "english": "SCHOOL-LIVE!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20754-akxAqF4QwYzJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20754-akxAqF4QwYzJ.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 9756,
+          "title": {
+            "romaji": "Mahou Shoujo Madoka☆Magica",
+            "english": "Puella Magi Madoka Magica"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-qnR83EYPzY1Z.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-qnR83EYPzY1Z.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 131149,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Sotsu",
+            "english": "Higurashi: When They Cry - SOTSU"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131149-Yx4j5dfb3494.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131149-Yx4j5dfb3494.jpg"
+          },
+          "episodes": 15,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 7724,
+          "title": {
+            "romaji": "Shiki",
+            "english": "Shiki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7724-NwNnRsI34eDa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7724-NwNnRsI34eDa.jpg"
+          },
+          "episodes": 22,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 129201,
+          "title": {
+            "romaji": "Summer Time Render",
+            "english": "Summer Time Rendering"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129201-HJBauga2be8I.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129201-HJBauga2be8I.png"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 11577,
+          "title": {
+            "romaji": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+            "english": "Steins;Gate The Movie – Load Region of Déjà Vu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21170,
+          "title": {
+            "romaji": "Ansatsu Kyoushitsu 2",
+            "english": "Assassination Classroom 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-aDHIDkp1L2jC.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 18195,
+          "title": {
+            "romaji": "Little Busters!: Refrain",
+            "english": "Little Busters! Refrain"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18195-SXGTMYGxwvxI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18195-SXGTMYGxwvxI.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21126,
+          "title": {
+            "romaji": "ChäoS;Child",
+            "english": "Chaos;Child"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21126-l7MgeoysYBdE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21126-l7MgeoysYBdE.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21234,
+          "title": {
+            "romaji": "Boku dake ga Inai Machi",
+            "english": "ERASED"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21234-bCvWk2f58LCv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-bCvWk2f58LCv.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10721,
+          "title": {
+            "romaji": "Mawaru Penguindrum",
+            "english": "Penguindrum"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10721-2QWmrqbmyYil.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10721-2QWmrqbmyYil.jpg"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 1365,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Shion",
+            "last": "Sonozaki",
+            "full": "Shion Sonozaki",
+            "native": "園崎詩音",
+            "userPreferred": "Shion Sonozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1313-wLhW5uDxdhqA.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95003,
+              "name": {
+                "first": "Satsuki",
+                "middle": null,
+                "last": "Yukino",
+                "full": "Satsuki Yukino",
+                "native": "ゆきのさつき",
+                "userPreferred": "Satsuki Yukino"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144973,
+              "name": {
+                "first": "Mayke",
+                "middle": null,
+                "last": "Dähn",
+                "full": "Mayke Dähn",
+                "native": null,
+                "userPreferred": "Mayke Dähn"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144973-OBEkHxuzLVsJ.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 153884,
+              "name": {
+                "first": "Sarah",
+                "middle": null,
+                "last": "Cornibert",
+                "full": "Sarah Cornibert",
+                "native": null,
+                "userPreferred": "Sarah Cornibert"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153884-LHMh3Rj6B2mc.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1366,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Mion",
+            "last": "Sonozaki",
+            "full": "Mion Sonozaki",
+            "native": "園崎魅音",
+            "userPreferred": "Mion Sonozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1611-z9SVkC9loi4y.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95003,
+              "name": {
+                "first": "Satsuki",
+                "middle": null,
+                "last": "Yukino",
+                "full": "Satsuki Yukino",
+                "native": "ゆきのさつき",
+                "userPreferred": "Satsuki Yukino"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144973,
+              "name": {
+                "first": "Mayke",
+                "middle": null,
+                "last": "Dähn",
+                "full": "Mayke Dähn",
+                "native": null,
+                "userPreferred": "Mayke Dähn"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144973-OBEkHxuzLVsJ.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 153884,
+              "name": {
+                "first": "Sarah",
+                "middle": null,
+                "last": "Cornibert",
+                "full": "Sarah Cornibert",
+                "native": null,
+                "userPreferred": "Sarah Cornibert"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153884-LHMh3Rj6B2mc.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4869,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Rika",
+            "last": "Furude",
+            "full": "Rika Furude",
+            "native": "古手梨花",
+            "userPreferred": "Rika Furude"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1534-Z6i6ucAqYo4R.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95027,
+              "name": {
+                "first": "Yukari",
+                "middle": null,
+                "last": "Tamura",
+                "full": "Yukari Tamura",
+                "native": "田村ゆかり",
+                "userPreferred": "Yukari Tamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 116413,
+              "name": {
+                "first": "Gabrielle",
+                "middle": null,
+                "last": "Pietermann",
+                "full": "Gabrielle Pietermann",
+                "native": null,
+                "userPreferred": "Gabrielle Pietermann"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116413-Cb8RkLro1Ki0.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 100329,
+              "name": {
+                "first": "Gabrielle",
+                "middle": null,
+                "last": "Jeru",
+                "full": "Gabrielle Jeru",
+                "native": null,
+                "userPreferred": "Gabrielle Jeru"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5045,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Hanyuu",
+            "last": "Furude",
+            "full": "Hanyuu Furude",
+            "native": "古手羽入",
+            "userPreferred": "Hanyuu Furude"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3128-ms0vxrk4ZoGN.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95028,
+              "name": {
+                "first": "Yui",
+                "middle": null,
+                "last": "Horie",
+                "full": "Yui Horie",
+                "native": "堀江由衣",
+                "userPreferred": "Yui Horie"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 131936,
+              "name": {
+                "first": "Patricia",
+                "middle": null,
+                "last": "Strasburger",
+                "full": "Patricia Strasburger",
+                "native": null,
+                "userPreferred": "Patricia Strasburger"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131936-JS2Hkx8X6gWF.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 184143,
+              "name": {
+                "first": "Delphine",
+                "middle": null,
+                "last": "Saroli",
+                "full": "Delphine Saroli",
+                "native": null,
+                "userPreferred": "Delphine Saroli"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184143-lTKBDbcf224a.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5234,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Satoko",
+            "last": "Houjou",
+            "full": "Satoko Houjou",
+            "native": "北条沙都子",
+            "userPreferred": "Satoko Houjou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1612-lL5sulSea1fZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95029,
+              "name": {
+                "first": "Mika",
+                "middle": null,
+                "last": "Kanai",
+                "full": "Mika Kanai",
+                "native": "かないみか",
+                "userPreferred": "Mika Kanai"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95029-XUWWmrBWrwYm.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 140281,
+              "name": {
+                "first": "Helen Malin",
+                "middle": null,
+                "last": "Blaschke",
+                "full": "Helen Malin Blaschke",
+                "native": null,
+                "userPreferred": "Helen Malin Blaschke"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140281-p5LUVB97XbLs.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 237631,
+              "name": {
+                "first": "Elodie",
+                "middle": null,
+                "last": "Lasne",
+                "full": "Elodie Lasne",
+                "native": null,
+                "userPreferred": "Elodie Lasne"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n237631-UGyfULftiInb.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5340,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Keiichi",
+            "last": "Maebara",
+            "full": "Keiichi Maebara",
+            "native": "前原圭一",
+            "userPreferred": "Keiichi Maebara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1851-stMK6YF2jvhS.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95030,
+              "name": {
+                "first": "Souichirou",
+                "middle": null,
+                "last": "Hoshi",
+                "full": "Souichirou Hoshi",
+                "native": "保志総一朗",
+                "userPreferred": "Souichirou Hoshi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 116411,
+              "name": {
+                "first": "Tobias John",
+                "middle": null,
+                "last": "von Freyend",
+                "full": "Tobias John von Freyend",
+                "native": null,
+                "userPreferred": "Tobias John von Freyend"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116411-Pmydt1RegvSM.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 237629,
+              "name": {
+                "first": "Sébastien",
+                "middle": null,
+                "last": "Mortamet",
+                "full": "Sébastien Mortamet",
+                "native": null,
+                "userPreferred": "Sébastien Mortamet"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5473,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Rena",
+            "last": "Ryuuguu",
+            "full": "Rena Ryuuguu",
+            "native": "竜宮レナ",
+            "userPreferred": "Rena Ryuuguu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1427-28AR4oy0y2Hw.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95031,
+              "name": {
+                "first": "Mai",
+                "middle": null,
+                "last": "Nakahara",
+                "full": "Mai Nakahara",
+                "native": "中原麻衣",
+                "userPreferred": "Mai Nakahara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 136687,
+              "name": {
+                "first": "Moira",
+                "middle": null,
+                "last": "May",
+                "full": "Moira May",
+                "native": null,
+                "userPreferred": "Moira May"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n136687-U24Tthg3kx5r.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 157091,
+              "name": {
+                "first": "Perrine",
+                "middle": null,
+                "last": "Grandclèment",
+                "full": "Perrine Grandclèment",
+                "native": null,
+                "userPreferred": "Perrine Grandclèment"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5696,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Satoshi",
+            "last": "Houjou",
+            "full": "Satoshi Houjou",
+            "native": "北条悟史",
+            "userPreferred": "Satoshi Houjou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1852-O8PeTxF1DodX.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95034,
+              "name": {
+                "first": "Yuu",
+                "middle": null,
+                "last": "Kobayashi",
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう",
+                "userPreferred": "Yuu Kobayashi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 119591,
+              "name": {
+                "first": "Christian",
+                "middle": null,
+                "last": "Zeiger",
+                "full": "Christian Zeiger",
+                "native": null,
+                "userPreferred": "Christian Zeiger"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119591-Cqkp0MiISslJ.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155758,
+              "name": {
+                "first": "Damien",
+                "middle": null,
+                "last": "Laquet",
+                "full": "Damien Laquet",
+                "native": null,
+                "userPreferred": "Damien Laquet"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155758-z0F8z3wK2w4Y.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 7736,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "",
+            "last": "Nomura",
+            "full": "Nomura",
+            "native": "野村",
+            "userPreferred": "Nomura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7243-YvsypDV78WuZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95060,
+              "name": {
+                "first": "Rie",
+                "middle": null,
+                "last": "Tanaka",
+                "full": "Rie Tanaka",
+                "native": "田中理恵",
+                "userPreferred": "Rie Tanaka"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95060-Rw0HZghxH1hF.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14778,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Miyo",
+            "last": "Takano",
+            "full": "Miyo Takano",
+            "native": "鷹野三四",
+            "userPreferred": "Miyo Takano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4934-hyXYSNh1Yqtu.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95121,
+              "name": {
+                "first": "Miki",
+                "middle": null,
+                "last": "Itou",
+                "full": "Miki Itou",
+                "native": "伊藤美紀 ",
+                "userPreferred": "Miki Itou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95121-FCp9NcoFgKZk.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95935,
+              "name": {
+                "first": "Fuyuka",
+                "middle": null,
+                "last": "Ooura",
+                "full": "Fuyuka Ooura",
+                "native": "大浦冬華",
+                "userPreferred": "Fuyuka Ooura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/935.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 105012,
+              "name": {
+                "first": "Claudia",
+                "middle": null,
+                "last": "Urbschat-mingues",
+                "full": "Claudia Urbschat-mingues",
+                "native": null,
+                "userPreferred": "Claudia Urbschat-mingues"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10012.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 198280,
+              "name": {
+                "first": "Justine",
+                "middle": null,
+                "last": "Hostekint",
+                "full": "Justine Hostekint",
+                "native": null,
+                "userPreferred": "Justine Hostekint"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n198280-kdVU33xFY0Ps.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 15534,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Kyousuke",
+            "last": "Irie",
+            "full": "Kyousuke Irie",
+            "native": "入江京介",
+            "userPreferred": "Kyousuke Irie"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7445-X8OacDAXCwqK.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95129,
+              "name": {
+                "first": "Toshihiko",
+                "middle": null,
+                "last": "Seki",
+                "full": "Toshihiko Seki",
+                "native": "関俊彦",
+                "userPreferred": "Toshihiko Seki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 144108,
+              "name": {
+                "first": "Nicolas",
+                "middle": null,
+                "last": "Böll",
+                "full": "Nicolas Böll",
+                "native": null,
+                "userPreferred": "Nicolas Böll"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n144108-cHMFIDNTCW7L.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 17984,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Rumiko",
+            "last": "Chie",
+            "full": "Rumiko Chie",
+            "native": "知恵留美子",
+            "userPreferred": "Rumiko Chie"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6696-hxF6CrBnVSYE.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95152,
+              "name": {
+                "first": "Fumiko",
+                "middle": null,
+                "last": "Orikasa",
+                "full": "Fumiko Orikasa",
+                "native": "折笠富美子",
+                "userPreferred": "Fumiko Orikasa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 139367,
+              "name": {
+                "first": "Demet",
+                "middle": null,
+                "last": "Fey",
+                "full": "Demet Fey",
+                "native": null,
+                "userPreferred": "Demet Fey"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n139367-7qzEiHgucG9t.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 198281,
+              "name": {
+                "first": "Sandra",
+                "middle": null,
+                "last": "Vandroux",
+                "full": "Sandra Vandroux",
+                "native": null,
+                "userPreferred": "Sandra Vandroux"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n198281-vuZFUs6x6FEz.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 22291,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Akane",
+            "last": "Sonozaki",
+            "full": "Akane Sonozaki",
+            "native": "園崎茜",
+            "userPreferred": "Akane Sonozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b11935-k3UjMcUlaJO8.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95195,
+              "name": {
+                "first": "Kikuko",
+                "middle": null,
+                "last": "Inoue",
+                "full": "Kikuko Inoue",
+                "native": "井上喜久子",
+                "userPreferred": "Kikuko Inoue"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 146821,
+              "name": {
+                "first": "Betül Jülide",
+                "middle": null,
+                "last": "Gülgec",
+                "full": "Betül Jülide Gülgec",
+                "native": null,
+                "userPreferred": "Betül Jülide Gülgec"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n146821-Fd0Fhxm94xFX.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155759,
+              "name": {
+                "first": "Dany",
+                "middle": null,
+                "last": "Benedito",
+                "full": "Dany Benedito",
+                "native": null,
+                "userPreferred": "Dany Benedito"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155759-wRCe4GDqVDsq.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 23685,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Mamoru",
+            "last": "Akasaka",
+            "full": "Mamoru Akasaka",
+            "native": "赤坂衛",
+            "userPreferred": "Mamoru Akasaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7183-JpCfOWyceYlW.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95212,
+              "name": {
+                "first": "Daisuke",
+                "middle": null,
+                "last": "Ono",
+                "full": "Daisuke Ono",
+                "native": "小野大輔",
+                "userPreferred": "Daisuke Ono"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 145742,
+              "name": {
+                "first": "Christian",
+                "middle": null,
+                "last": "Wunderlich",
+                "full": "Christian Wunderlich",
+                "native": null,
+                "userPreferred": "Christian Wunderlich"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145742-zhf93wWLlKf0.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 24202,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Rina",
+            "last": "Mamiya",
+            "full": "Rina Mamiya",
+            "native": "間宮リナ",
+            "userPreferred": "Rina Mamiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10741-w0rRitrCubVK.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95230,
+              "name": {
+                "first": "Misa",
+                "middle": null,
+                "last": "Watanabe",
+                "full": "Misa Watanabe",
+                "native": "渡辺美佐",
+                "userPreferred": "Misa Watanabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95230-lCHOeyeVaISA.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 24605,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Tetsuro",
+            "last": "Okonogi",
+            "full": "Tetsuro Okonogi",
+            "native": "小此木鉄郎",
+            "userPreferred": "Tetsuro Okonogi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b21243-IqmYXKE1NB08.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95237,
+              "name": {
+                "first": "Juurouta",
+                "middle": null,
+                "last": "Kosugi",
+                "full": "Juurouta Kosugi",
+                "native": "小杉十郎太",
+                "userPreferred": "Juurouta Kosugi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95237-nelrZUfvh2FH.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 156210,
+              "name": {
+                "first": "Bruno",
+                "middle": null,
+                "last": "Winzen",
+                "full": "Bruno Winzen",
+                "native": null,
+                "userPreferred": "Bruno Winzen"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 25001,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Jirou",
+            "last": "Tomitake",
+            "full": "Jirou Tomitake",
+            "native": "富竹ジロウ",
+            "userPreferred": "Jirou Tomitake"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10024-Bu0fiJR4Iz9x.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95243,
+              "name": {
+                "first": "Tooru",
+                "middle": null,
+                "last": "Ookawa",
+                "full": "Tooru Ookawa",
+                "native": "大川透",
+                "userPreferred": "Tooru Ookawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 101116,
+              "name": {
+                "first": "Heiko",
+                "middle": null,
+                "last": "Obermöller",
+                "full": "Heiko Obermöller",
+                "native": null,
+                "userPreferred": "Heiko Obermöller"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6116.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 27718,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Tatsuyoshi",
+            "last": "Kasai",
+            "full": "Tatsuyoshi Kasai",
+            "native": "葛西辰由",
+            "userPreferred": "Tatsuyoshi Kasai"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14928-DIdiJ3r5dsHH.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95284,
+              "name": {
+                "first": "Fumihiko",
+                "middle": null,
+                "last": "Tachiki",
+                "full": "Fumihiko Tachiki",
+                "native": "立木文彦",
+                "userPreferred": "Fumihiko Tachiki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155914,
+              "name": {
+                "first": "Markus",
+                "middle": null,
+                "last": "Klauk",
+                "full": "Markus Klauk",
+                "native": null,
+                "userPreferred": "Markus Klauk"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 47602,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Kuraudo",
+            "last": "Ooishi",
+            "full": "Kuraudo Ooishi",
+            "native": "大石蔵人",
+            "userPreferred": "Kuraudo Ooishi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3775-CQOkJnyiCThk.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95831,
+              "name": {
+                "first": "",
+                "middle": null,
+                "last": "Chafuurin",
+                "full": "Chafuurin",
+                "native": "茶風林 ",
+                "userPreferred": "Chafuurin"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95831-yMEQTpN1WEtp.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 146605,
+              "name": {
+                "first": "Pierre",
+                "middle": null,
+                "last": "Peters-Arnolds",
+                "full": "Pierre Peters-Arnolds",
+                "native": null,
+                "userPreferred": "Pierre Peters-Arnolds"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 58613,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Oryou",
+            "last": "Sonozaki",
+            "full": "Oryou Sonozaki",
+            "native": "園崎お魎",
+            "userPreferred": "Oryou Sonozaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9481-A5LPr9vcwiOm.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 96497,
+              "name": {
+                "first": "Shizuka",
+                "middle": null,
+                "last": "Okohira",
+                "full": "Shizuka Okohira",
+                "native": "尾小平志津香",
+                "userPreferred": "Shizuka Okohira"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96497-G1j1EPjAtRuQ.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 140334,
+              "name": {
+                "first": "Sibylle",
+                "middle": null,
+                "last": "Kuhne",
+                "full": "Sibylle Kuhne",
+                "native": null,
+                "userPreferred": "Sibylle Kuhne"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n140334-QzyglbILe0Ui.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 198281,
+              "name": {
+                "first": "Sandra",
+                "middle": null,
+                "last": "Vandroux",
+                "full": "Sandra Vandroux",
+                "native": null,
+                "userPreferred": "Sandra Vandroux"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n198281-vuZFUs6x6FEz.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 63297,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Teppei",
+            "last": "Houjou",
+            "full": "Teppei Houjou",
+            "native": "北条鉄平",
+            "userPreferred": "Teppei Houjou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b9464-o4p2oDIloadU.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 100317,
+              "name": {
+                "first": "Katsuhisa",
+                "middle": null,
+                "last": "Houki",
+                "full": "Katsuhisa Houki",
+                "native": "宝亀克寿",
+                "userPreferred": "Katsuhisa Houki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100317-8qR7ph0AKfXu.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155911,
+              "name": {
+                "first": "Dustin",
+                "middle": null,
+                "last": "Semmelrogge",
+                "full": "Dustin Semmelrogge",
+                "native": null,
+                "userPreferred": "Dustin Semmelrogge"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 65478,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Kiichirou",
+            "last": "Kimiyoshi",
+            "full": "Kiichirou Kimiyoshi",
+            "native": "公由喜一郎",
+            "userPreferred": "Kiichirou Kimiyoshi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14929-Pz9C3YPFo8s5.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 101097,
+              "name": {
+                "first": "Masaaki",
+                "middle": null,
+                "last": "Tsukada",
+                "full": "Masaaki Tsukada",
+                "native": "塚田正昭",
+                "userPreferred": "Masaaki Tsukada"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101097-vGCJsMVpAQ7v.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155909,
+              "name": {
+                "first": "Axel",
+                "middle": null,
+                "last": "Gottschick",
+                "full": "Axel Gottschick",
+                "native": null,
+                "userPreferred": "Axel Gottschick"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 155758,
+              "name": {
+                "first": "Damien",
+                "middle": null,
+                "last": "Laquet",
+                "full": "Damien Laquet",
+                "native": null,
+                "userPreferred": "Damien Laquet"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n155758-z0F8z3wK2w4Y.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 74854,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Hifumi",
+            "last": "Takano",
+            "full": "Hifumi Takano",
+            "native": "高野一二三",
+            "userPreferred": "Hifumi Takano"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b56055-wqBS5GTBwk7F.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 104181,
+              "name": {
+                "first": "Kazumi",
+                "middle": null,
+                "last": "Tanaka",
+                "full": "Kazumi Tanaka",
+                "native": "田中和実",
+                "userPreferred": "Kazumi Tanaka"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104181-ufSuwCOFzo7V.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 186726,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Frederica",
+            "last": "Bernkastel",
+            "full": "Frederica Bernkastel",
+            "native": "ベルンカステル",
+            "userPreferred": "Frederica Bernkastel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n11840-VWgfpuaeRXvh.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95027,
+              "name": {
+                "first": "Yukari",
+                "middle": null,
+                "last": "Tamura",
+                "full": "Yukari Tamura",
+                "native": "田村ゆかり",
+                "userPreferred": "Yukari Tamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 316934,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ichirou",
+            "last": "Maebara",
+            "full": "Ichirou Maebara",
+            "native": "前原伊知郎",
+            "userPreferred": "Ichirou Maebara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b236531-BK2oPfzxtOjH.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95310,
+              "name": {
+                "first": "Yasunori",
+                "middle": null,
+                "last": "Matsumoto",
+                "full": "Yasunori Matsumoto",
+                "native": "松本保典",
+                "userPreferred": "Yasunori Matsumoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95310-n59AcIeJBg9W.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
