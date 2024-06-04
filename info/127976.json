@@ -1,0 +1,965 @@
+{
+  "id": 127976,
+  "idMal": 50399,
+  "title": {
+    "romaji": "Tian Guan Ci Fu 2",
+    "english": "Heaven Official's Blessing Season 2",
+    "userPreferred": "Tian Guan Ci Fu 2"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127976-8PM1dCfqAWNc.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127976-8PM1dCfqAWNc.jpg",
+    "color": "#6b1a35"
+  },
+  "description": "The second season of <i>Tian Guan Ci Fu</i>.",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127976-dhwWiCREK7zU.jpg",
+  "episodes": 12,
+  "status": "FINISHED",
+  "duration": 24,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "source": "OTHER",
+  "type": "ANIME",
+  "seasonYear": null,
+  "season": null,
+  "format": "ONA",
+  "averageScore": 86,
+  "popularity": 14276,
+  "countryOfOrigin": "CN",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2023,
+    "month": 10,
+    "day": 18
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 1,
+    "day": 17
+  },
+  "trailer": {
+    "id": "bw--hY7Sxh0",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/bw--hY7Sxh0/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 7050,
+        "name": "Red Dog Culture House",
+        "siteUrl": "https://anilist.co/studio/7050"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 126356,
+          "title": {
+            "romaji": "Tian Guan Ci Fu Special",
+            "native": "天官赐福 特别篇",
+            "english": "Heaven Official's Blessing Special Episode"
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126356-Nt66D91sH3Cu.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126356-Nt66D91sH3Cu.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 112275,
+          "title": {
+            "romaji": "Tian Guan Ci Fu",
+            "native": "天官赐福",
+            "english": "Heaven Official's Blessing"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112275-fh0u5cH2qB5b.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112275-fh0u5cH2qB5b.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "RELEASING"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 113260,
+          "title": {
+            "romaji": "Tian Guan Ci Fu",
+            "english": "Heaven Official's Blessing"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113260-4LPAAKCSJe8f.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113260-4LPAAKCSJe8f.jpg"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101972,
+          "title": {
+            "romaji": "Modao Zushi",
+            "english": "The Founder of Diabolism"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101972-dep8Bcte5jQd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101972-dep8Bcte5jQd.jpg"
+          },
+          "episodes": 15,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 108978,
+          "title": {
+            "romaji": "Chuan Shu Zijiu Zhinan",
+            "english": "Scumbag System"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108978-GtIXqzO8RaAz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108978-GtIXqzO8RaAz.png"
+          },
+          "episodes": 10,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 104458,
+          "title": {
+            "romaji": "Modao Zushi 2",
+            "english": "The Founder of Diabolism 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104458-b3PRaVB0vBM9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104458-b3PRaVB0vBM9.png"
+          },
+          "episodes": 8,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 121467,
+          "title": {
+            "romaji": "Modao Zushi 3",
+            "english": "The Founder of Diabolism: Final Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121467-Et0U1jXLfuYf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121467-Et0U1jXLfuYf.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 120343,
+          "title": {
+            "romaji": "Modao Zushi Q",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120343-8zVgrYFOl7GV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120343-8zVgrYFOl7GV.png"
+          },
+          "episodes": 30,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 126403,
+          "title": {
+            "romaji": "Shiguang Dailiren",
+            "english": "Link Click"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126403-0ufstxbwvPK7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126403-0ufstxbwvPK7.png"
+          },
+          "episodes": 11,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 136484,
+          "title": {
+            "romaji": "Shiguang Dailiren II",
+            "english": "Link Click Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136484-nBYX9HCItKjb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136484-nBYX9HCItKjb.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 136145,
+          "title": {
+            "romaji": "Shiguang Dailiren Special",
+            "english": "LINK CLICK Episode 5.5"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136145-guWKltDngjIu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136145-guWKltDngjIu.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 140175,
+          "title": {
+            "romaji": "Shiguang Zhaoxiangguan De Richang",
+            "english": "LINK CLICK (Shorts)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140175-ALEehijVQois.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140175-ALEehijVQois.jpg"
+          },
+          "episodes": 18,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 138260,
+          "title": {
+            "romaji": "Shiguang Dailiren: Xiaoyao Sanren De Weituo",
+            "english": "Link Click: Troubles of Ordinary People"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138260-nCFsDfxaR2GQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138260-nCFsDfxaR2GQ.png"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 199,
+          "title": {
+            "romaji": "Sen to Chihiro no Kamikakushi",
+            "english": "Spirited Away"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-ilRRfrty7HrJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-ilRRfrty7HrJ.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 269663,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Lian",
+            "last": "Xie",
+            "full": "Lian Xie",
+            "native": "谢怜",
+            "userPreferred": "Lian Xie"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b149589-dC9wt4beVBUU.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 229159,
+              "name": {
+                "first": "Youxi",
+                "middle": null,
+                "last": "Deng",
+                "full": "Youxi Deng",
+                "native": "邓宥希",
+                "userPreferred": "Youxi Deng"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229159-pcbBixGkXtzV.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 129028,
+              "name": {
+                "first": "Howard",
+                "middle": null,
+                "last": "Wang",
+                "full": "Howard Wang",
+                "native": null,
+                "userPreferred": "Howard Wang"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129028-PhyPyle2SkGe.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 271719,
+              "name": {
+                "first": "Molly",
+                "middle": null,
+                "last": "Zhang",
+                "full": "Molly Zhang",
+                "native": null,
+                "userPreferred": "Molly Zhang"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n271719-1lf9OunakE4n.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95118,
+              "name": {
+                "first": "Hiroshi",
+                "middle": null,
+                "last": "Kamiya",
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史",
+                "userPreferred": "Hiroshi Kamiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 269664,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Cheng",
+            "last": "Hua",
+            "full": "Cheng Hua",
+            "native": "花城",
+            "userPreferred": "Cheng Hua"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b149594-BuEcMmYcFkIX.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 188297,
+              "name": {
+                "first": "Zhengyang",
+                "middle": null,
+                "last": "Ma",
+                "full": "Zhengyang Ma",
+                "native": "马正阳",
+                "userPreferred": "Zhengyang Ma"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188297-McORfiFI9CYk.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 257176,
+              "name": {
+                "first": "James",
+                "middle": null,
+                "last": "Cheek",
+                "full": "James Cheek",
+                "native": null,
+                "userPreferred": "James Cheek"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257176-Yh9mKryKWnoK.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95086,
+              "name": {
+                "first": "Jun",
+                "middle": null,
+                "last": "Fukuyama",
+                "full": "Jun Fukuyama",
+                "native": "福山潤",
+                "userPreferred": "Jun Fukuyama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 376704,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Xin",
+            "last": "Feng",
+            "full": "Xin Feng",
+            "native": "风信",
+            "userPreferred": "Xin Feng"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166980-dqpDNng97h2Y.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 188299,
+              "name": {
+                "first": "Sen",
+                "middle": null,
+                "last": "Wen",
+                "full": "Sen Wen",
+                "native": "文森",
+                "userPreferred": "Sen Wen"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188299-qw484gP3wtkg.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 257177,
+              "name": {
+                "first": "Phil",
+                "middle": null,
+                "last": "Song",
+                "full": "Phil Song",
+                "native": null,
+                "userPreferred": "Phil Song"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n257177-lTuUwFeOHJSv.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 376727,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Wu",
+            "last": "Jun",
+            "full": "Wu Jun",
+            "native": "君吾",
+            "userPreferred": "Wu Jun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176989-oUMkwzO7SCnx.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 175031,
+              "name": {
+                "first": "Zhongyang",
+                "middle": null,
+                "last": "Baomu",
+                "full": "Zhongyang Baomu",
+                "native": "宝木中阳",
+                "userPreferred": "Zhongyang Baomu"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175031-zsl22ZzSAJiY.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 152255,
+              "name": {
+                "first": "Reagan",
+                "middle": null,
+                "last": "Murdock",
+                "full": "Reagan Murdock",
+                "native": null,
+                "userPreferred": "Reagan Murdock"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n152255-zrHg8QRIaNDK.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457712,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Qingxuan",
+            "last": "Shi",
+            "full": "Qingxuan Shi",
+            "native": "师青玄",
+            "userPreferred": "Qingxuan Shi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175354-z83SMuDUCilb.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 238322,
+              "name": {
+                "first": "Jacob",
+                "middle": null,
+                "last": "Eiseman",
+                "full": "Jacob Eiseman",
+                "native": null,
+                "userPreferred": "Jacob Eiseman"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n238322-Catuo49ej5rT.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 242720,
+              "name": {
+                "first": "Anjali",
+                "middle": null,
+                "last": "Kunapaneni",
+                "full": "Anjali Kunapaneni",
+                "native": null,
+                "userPreferred": "Anjali Kunapaneni"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n242720-04l6I3WfVvnB.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95013,
+              "name": {
+                "first": "Ayako",
+                "middle": null,
+                "last": "Kawasumi",
+                "full": "Ayako Kawasumi",
+                "native": "川澄綾子",
+                "userPreferred": "Ayako Kawasumi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-cwl64qXuP2r7.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457714,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ming",
+            "last": "Pei",
+            "full": "Ming Pei",
+            "native": "裴茗",
+            "userPreferred": "Ming Pei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b220394-6hOhoUEIOWGX.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 138441,
+              "name": {
+                "first": "Aaron",
+                "middle": null,
+                "last": "Campbell",
+                "full": "Aaron Campbell",
+                "native": null,
+                "userPreferred": "Aaron Campbell"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138441-AUeCgOsrf1oa.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457715,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Wen",
+            "last": "Ling",
+            "full": "Wen Ling",
+            "native": "灵文",
+            "userPreferred": "Wen Ling"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176990-rx0HWyuiL3yg.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95036,
+              "name": {
+                "first": "Wendee",
+                "middle": null,
+                "last": "Lee",
+                "full": "Wendee Lee",
+                "native": null,
+                "userPreferred": "Wendee Lee"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95036-UkyIYVtEhoPk.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 102263,
+              "name": {
+                "first": "Youko",
+                "middle": null,
+                "last": "Hikasa",
+                "full": "Youko Hikasa",
+                "native": "日笠陽子",
+                "userPreferred": "Youko Hikasa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457716,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Qing",
+            "last": "Mu",
+            "full": "Qing Mu",
+            "native": "慕情",
+            "userPreferred": "Qing Mu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b166979-faflbMBhHDyc.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 115853,
+              "name": {
+                "first": "Lucien",
+                "middle": null,
+                "last": "Dodge",
+                "full": "Lucien Dodge",
+                "native": null,
+                "userPreferred": "Lucien Dodge"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457717,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Lan",
+            "last": "Jian",
+            "full": "Lan Jian",
+            "native": "剑兰",
+            "userPreferred": "Lan Jian"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261435-m7sF1gFVnTPE.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119613,
+              "name": {
+                "first": "Sara",
+                "middle": null,
+                "last": "Ragsdale",
+                "full": "Sara Ragsdale",
+                "native": null,
+                "userPreferred": "Sara Ragsdale"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24613-2XHgMx9R7AzO.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457719,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Qianqiu",
+            "last": "Lang",
+            "full": "Qianqiu Lang",
+            "native": "郎千秋",
+            "userPreferred": "Qianqiu Lang"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261436-tn63tSKExlnD.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 318983,
+              "name": {
+                "first": "Branden",
+                "middle": null,
+                "last": "Loera",
+                "full": "Branden Loera",
+                "native": null,
+                "userPreferred": "Branden Loera"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n318983-QJ5yXMGVgOMz.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 457720,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Zhu Tufu",
+            "last": null,
+            "full": "Zhu Tufu",
+            "native": "朱屠夫",
+            "userPreferred": "Zhu Tufu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280730-ijZp4Q3OX4h9.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 318984,
+              "name": {
+                "first": "Tom",
+                "middle": null,
+                "last": "Henry",
+                "full": "Tom Henry",
+                "native": null,
+                "userPreferred": "Tom Henry"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n318984-nMZICAMayhcu.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 468219,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Rong",
+            "last": "Qi",
+            "full": "Rong Qi",
+            "native": "戚容",
+            "userPreferred": "Rong Qi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b261438-fO1QopXt7QYL.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 148764,
+              "name": {
+                "first": "Jordan Dash",
+                "middle": null,
+                "last": "Cruz",
+                "full": "Jordan Dash Cruz",
+                "native": null,
+                "userPreferred": "Jordan Dash Cruz"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148764-jKjUXzYlCikt.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 468220,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Yi",
+            "last": "Ming",
+            "full": "Yi Ming",
+            "native": "明仪",
+            "userPreferred": "Yi Ming"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b204394-SsfTTSnbohr3.png"
+          }
+        },
+        "voiceActorRoles": []
+      },
+      {
+        "id": 468223,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Yin Yu",
+            "last": null,
+            "full": "Yin Yu",
+            "native": "引玉",
+            "userPreferred": "Yin Yu"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284434-RJkMBuaYbj6G.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 319546,
+              "name": {
+                "first": "Ryan",
+                "middle": null,
+                "last": "Negron",
+                "full": "Ryan Negron",
+                "native": null,
+                "userPreferred": "Ryan Negron"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319546-ln1FV5Q6rMum.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 468224,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ying",
+            "last": "Lang",
+            "full": "Ying Lang",
+            "native": "郎萤",
+            "userPreferred": "Ying Lang"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b324324-j0JuRp3uzOgW.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 150105,
+              "name": {
+                "first": "Caleb",
+                "middle": null,
+                "last": "Yen",
+                "full": "Caleb Yen",
+                "native": null,
+                "userPreferred": "Caleb Yen"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n150105-i4jmv54PdNPg.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
