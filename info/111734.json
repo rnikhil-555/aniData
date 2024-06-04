@@ -1,0 +1,574 @@
+{
+  "id": 111734,
+  "idMal": 40421,
+  "title": {
+    "romaji": "Given Movie",
+    "english": "Given The Movie",
+    "userPreferred": "Given Movie"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111734-82sWJBotlzE8.png",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111734-82sWJBotlzE8.png",
+    "color": "#28a1f1"
+  },
+  "description": "The film centers on the love relationship among the band's bassist Haruki Nakayama, drummer Akihiko Kaji, and Akihiko's roommate and ex-boyfriend Ugetsu Murata.<br>\n<br>\n(Source: Crunchyroll)",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111734-e9qFEmADPAzs.jpg",
+  "episodes": 1,
+  "status": "FINISHED",
+  "duration": 60,
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 2020,
+  "season": "SUMMER",
+  "format": "MOVIE",
+  "averageScore": 80,
+  "popularity": 79400,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2020,
+    "month": 8,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2020,
+    "month": 8,
+    "day": 22
+  },
+  "trailer": {
+    "id": "XGKGjMGZwtk",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/XGKGjMGZwtk/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 456,
+        "name": "Lerche",
+        "siteUrl": "https://anilist.co/studio/456"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 108430,
+          "title": {
+            "romaji": "Given",
+            "native": "ギヴン",
+            "english": "given"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108430-LcVOT7ntUbjT.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108430-LcVOT7ntUbjT.jpg"
+          },
+          "episodes": 11,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 87347,
+          "title": {
+            "romaji": "Given",
+            "native": "ギヴン",
+            "english": "Given"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87347-GOCU76cl37dK.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87347-GOCU76cl37dK.png"
+          },
+          "episodes": null,
+          "chapters": 51,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 134710,
+          "title": {
+            "romaji": "Given: Uragawa no Sonzai",
+            "native": "ギヴン うらがわの存在",
+            "english": "given: on the other hand"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134710-m3VYouLXKIYv.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134710-m3VYouLXKIYv.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 162987,
+          "title": {
+            "romaji": "Given: Hiiragi mix",
+            "native": "ギヴン 柊mix",
+            "english": null
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162987-gRFCJagC9bm2.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162987-gRFCJagC9bm2.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 877,
+          "title": {
+            "romaji": "NANA",
+            "english": "NANA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx877-rgaDbTMM9R59.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx877-rgaDbTMM9R59.png"
+          },
+          "episodes": 47,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 57,
+          "title": {
+            "romaji": "BECK",
+            "english": "Beck: Mongolian Chop Squad"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx57-HhnvbHS4ujea.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx57-HhnvbHS4ujea.png"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 12531,
+          "title": {
+            "romaji": "Sakamichi no Apollon",
+            "english": "Kids on the Slope"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx12531-Z5K3przHadiD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12531-Z5K3przHadiD.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1698,
+          "title": {
+            "romaji": "Nodame Cantabile",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1698-VhVaiOLkcGCp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1698-VhVaiOLkcGCp.jpg"
+          },
+          "episodes": 23,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 110211,
+          "title": {
+            "romaji": "Namui BL Manhwa Animation",
+            "english": "Someone Else's BL Comic Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110211-J0bjqrO2wL8e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110211-J0bjqrO2wL8e.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100401,
+          "title": {
+            "romaji": "Piano no Mori (TV)",
+            "english": "Forest of Piano"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100401-frKNiXOnRKdu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100401-frKNiXOnRKdu.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 9926,
+          "title": {
+            "romaji": "Sekaiichi Hatsukoi",
+            "english": "Sekai Ichi Hatsukoi - The World's Greatest First Love"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9926-AhRNkKBBbsNq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9926-AhRNkKBBbsNq.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21096,
+          "title": {
+            "romaji": "Doukyuusei",
+            "english": "Doukyuusei -Classmates-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21096-1wIOxpjtXb7J.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21096-1wIOxpjtXb7J.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 101922,
+          "title": {
+            "romaji": "Kimetsu no Yaiba",
+            "english": "Demon Slayer: Kimetsu no Yaiba"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 146743,
+          "title": {
+            "romaji": "Sasaki to Miyano: Sotsugyou-hen",
+            "english": "Sasaki and Miyano: Graduation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146743-MQNPLbWH0mI9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146743-MQNPLbWH0mI9.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 162989,
+          "title": {
+            "romaji": "Mask Danshi wa Koishitakunai no ni",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162989-ggzE30K7OeCX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162989-ggzE30K7OeCX.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 167087,
+          "title": {
+            "romaji": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
+            "english": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167087-3ZM69QhaQ3FE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167087-3ZM69QhaQ3FE.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 160181,
+          "title": {
+            "romaji": "Sasayaku You ni Koi wo Utau",
+            "english": "Whisper Me a Love Song"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160181-EGC0Scngy5In.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160181-EGC0Scngy5In.jpg"
+          },
+          "episodes": 12,
+          "status": "RELEASING",
+          "format": "TV",
+          "nextAiringEpisode": {
+            "airingAt": 1719073800,
+            "timeUntilAiring": 1563605,
+            "episode": 9
+          }
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 186150,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ritsuka",
+            "last": "Uenoyama",
+            "full": "Ritsuka Uenoyama",
+            "native": "上ノ山立夏",
+            "userPreferred": "Ritsuka Uenoyama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136843-z6IjhOi636WT.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119617,
+              "name": {
+                "first": "Yuuma",
+                "middle": null,
+                "last": "Uchida",
+                "full": "Yuuma Uchida",
+                "native": "内田雄馬",
+                "userPreferred": "Yuuma Uchida"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 186151,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Mafuyu",
+            "last": "Satou",
+            "full": "Mafuyu Satou",
+            "native": "佐藤真冬",
+            "userPreferred": "Mafuyu Satou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136844-UoqciaLvz5Jf.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 123609,
+              "name": {
+                "first": "Shougo",
+                "middle": null,
+                "last": "Yano",
+                "full": "Shougo Yano",
+                "native": "矢野奨吾",
+                "userPreferred": "Shougo Yano"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123609-u6wq4FibEfzO.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 186152,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Haruki",
+            "last": "Nakayama",
+            "full": "Haruki Nakayama",
+            "native": "中山春樹",
+            "userPreferred": "Haruki Nakayama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136845-4jHomiPMsJ6n.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 118658,
+              "name": {
+                "first": "Masatomo",
+                "middle": null,
+                "last": "Nakazawa",
+                "full": "Masatomo Nakazawa",
+                "native": "中澤匡智 ",
+                "userPreferred": "Masatomo Nakazawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118658-797WoxHKZkp1.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 186153,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Akihiko",
+            "last": "Kaji",
+            "full": "Akihiko Kaji",
+            "native": "梶秋彦",
+            "userPreferred": "Akihiko Kaji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136842-Ip5LDrd7qwE1.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 102695,
+              "name": {
+                "first": "Takuya",
+                "middle": null,
+                "last": "Eguchi",
+                "full": "Takuya Eguchi",
+                "native": "江口拓也",
+                "userPreferred": "Takuya Eguchi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 186929,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ugetsu",
+            "last": "Murata",
+            "full": "Ugetsu Murata",
+            "native": "村田雨月",
+            "userPreferred": "Ugetsu Murata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b146260-nvHPDaD6FvTM.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95186,
+              "name": {
+                "first": "Shintarou",
+                "middle": null,
+                "last": "Asanuma",
+                "full": "Shintarou Asanuma",
+                "native": "浅沼晋太郎",
+                "userPreferred": "Shintarou Asanuma"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95186-XMdPPqYhMrwN.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 282729,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Koji",
+            "last": "Yatake",
+            "full": "Koji Yatake",
+            "native": "矢岳光司",
+            "userPreferred": "Koji Yatake"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b174907-owS1iNCIh6u3.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 107615,
+              "name": {
+                "first": "Ryouta",
+                "middle": null,
+                "last": "Takeuchi",
+                "full": "Ryouta Takeuchi",
+                "native": "竹内良太",
+                "userPreferred": "Ryouta Takeuchi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107615-e4FrG8jtyQKY.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
