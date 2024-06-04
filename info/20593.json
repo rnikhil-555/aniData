@@ -1,0 +1,448 @@
+{
+  "id": 20593,
+  "idMal": 21855,
+  "title": {
+    "romaji": "Hanamonogatari",
+    "english": "Hanamonogatari",
+    "userPreferred": "Hanamonogatari"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20593-Y7r9YayAjo9g.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20593-Y7r9YayAjo9g.jpg",
+    "color": "#e4865d"
+  },
+  "description": "Second season of the Monogatari Series, part 2/2. Contains the arc Suruga Devil from the Hanamonogatari light novel.\n<br><br>\nNow that Koyomi Araragi and Hitagi Senjougahara have graduated, few familiar faces remain at Naoetsu Private High School. One of them is Suruga Kanbaru, holder of the Monkey's Paw. When she begins to hear talk of a mysterious being known as the \"Devil,\" who will magically solve any problem, she immediately thinks these rumors are about her and decides to investigate.\n<br><br>\nKanbaru discovers the Devil is actually Rouka Numachi, a former rival who provides free advice to those who seek her out now that she can no longer play basketball due to a leg injury. As a collector of misfortune, Numachi enjoys relieving her clients' stress by giving them false hope. Though Kanbaru sees no real harm being done, she reprimands Rouka for lying and heads home, relieved she is not the cause of the rumors. But the next morning, when she finds that her left hand has reverted back to its original form, she may have a reason to worry after all.\n",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20593-axzVzexiYwqs.png",
+  "episodes": 5,
+  "status": "FINISHED",
+  "duration": 24,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "source": "LIGHT_NOVEL",
+  "type": "ANIME",
+  "seasonYear": 2014,
+  "season": "SUMMER",
+  "format": "TV",
+  "averageScore": 78,
+  "popularity": 100219,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2014,
+    "month": 8,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2014,
+    "month": 8,
+    "day": 16
+  },
+  "trailer": {
+    "id": "-fe2NMwKyFo",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/-fe2NMwKyFo/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 44,
+        "name": "Shaft",
+        "siteUrl": "https://anilist.co/studio/44"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 100815,
+          "title": {
+            "romaji": "Zoku Owarimonogatari",
+            "native": "続・終物語",
+            "english": "Zoku Owarimonogatari"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100815-cZbnM9Bjth8W.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100815-cZbnM9Bjth8W.png"
+          },
+          "episodes": 6,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 143721,
+          "title": {
+            "romaji": "Hanamonogatari",
+            "native": "花物語",
+            "english": "Hanamonogatari: Flower Tale"
+          },
+          "format": "NOVEL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143721-WGmbYhb5HYYM.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143721-WGmbYhb5HYYM.jpg"
+          },
+          "episodes": null,
+          "chapters": 32,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 17074,
+          "title": {
+            "romaji": "Monogatari Series: Second Season",
+            "english": "Monogatari Series Second Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17074-9lBqEOzptpam.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17074-9lBqEOzptpam.png"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21520,
+          "title": {
+            "romaji": "Koyomimonogatari",
+            "english": "Koyomimonogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21520-nZKCr7PZrv7e.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 95978,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Koyomi",
+            "last": "Araragi",
+            "full": "Koyomi Araragi",
+            "native": "阿良々木暦",
+            "userPreferred": "Koyomi Araragi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95118,
+              "name": {
+                "first": "Hiroshi",
+                "middle": null,
+                "last": "Kamiya",
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史",
+                "userPreferred": "Hiroshi Kamiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 95981,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Deishuu",
+            "last": "Kaiki",
+            "full": "Deishuu Kaiki",
+            "native": "貝木泥舟",
+            "userPreferred": "Deishuu Kaiki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b53641-F3GYG0k2xCBj.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95022,
+              "name": {
+                "first": "Shinichirou",
+                "middle": null,
+                "last": "Miki",
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎",
+                "userPreferred": "Shinichirou Miki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 95985,
+        "role": "BACKGROUND",
+        "node": {
+          "name": {
+            "first": "Shinobu",
+            "last": "Oshino",
+            "full": "Shinobu Oshino",
+            "native": "忍野忍",
+            "userPreferred": "Shinobu Oshino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95090,
+              "name": {
+                "first": "Maaya",
+                "middle": null,
+                "last": "Sakamoto",
+                "full": "Maaya Sakamoto",
+                "native": "坂本真綾",
+                "userPreferred": "Maaya Sakamoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 95986,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Suruga",
+            "last": "Kanbaru",
+            "full": "Suruga Kanbaru",
+            "native": "神原駿河",
+            "userPreferred": "Suruga Kanbaru"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/22054-n6Jsvp80bUhD.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95099,
+              "name": {
+                "first": "Miyuki",
+                "middle": null,
+                "last": "Sawashiro",
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき",
+                "userPreferred": "Miyuki Sawashiro"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 95997,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ougi",
+            "last": "Oshino",
+            "full": "Ougi Oshino",
+            "native": "忍野扇",
+            "userPreferred": "Ougi Oshino"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b87886-ZRBtKp5Sjoaa.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95156,
+              "name": {
+                "first": "Kaori",
+                "middle": null,
+                "last": "Mizuhashi",
+                "full": "Kaori Mizuhashi",
+                "native": "水橋かおり",
+                "userPreferred": "Kaori Mizuhashi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95156-7tw0zP396ecG.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 99016,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Rouka",
+            "last": "Numachi",
+            "full": "Rouka Numachi",
+            "native": "沼地蠟花",
+            "userPreferred": "Rouka Numachi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88844-56CQmuAiJthO.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95817,
+              "name": {
+                "first": "Kana",
+                "middle": null,
+                "last": "Asumi",
+                "full": "Kana Asumi",
+                "native": "阿澄佳奈",
+                "userPreferred": "Kana Asumi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 148345,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Karen",
+            "last": "Araragi",
+            "full": "Karen Araragi",
+            "native": "阿良々木火憐",
+            "userPreferred": "Karen Araragi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/n24194-SZwAIpP4IDum.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95413,
+              "name": {
+                "first": "Eri",
+                "middle": null,
+                "last": "Kitamura",
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨",
+                "userPreferred": "Eri Kitamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 180810,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Seiu",
+            "last": "Higasa",
+            "full": "Seiu Higasa",
+            "native": "日傘星雨",
+            "userPreferred": "Seiu Higasa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137915-7W4vcUYIBG2g.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 102263,
+              "name": {
+                "first": "Youko",
+                "middle": null,
+                "last": "Hikasa",
+                "full": "Youko Hikasa",
+                "native": "日笠陽子",
+                "userPreferred": "Youko Hikasa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 195934,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Tooe",
+            "last": "Gaen",
+            "full": "Tooe Gaen",
+            "native": "臥煙遠江",
+            "userPreferred": "Tooe Gaen"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137496-OpmquT4musYd.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95176,
+              "name": {
+                "first": "Michiko",
+                "middle": null,
+                "last": "Neya",
+                "full": "Michiko Neya",
+                "native": "根谷美智子",
+                "userPreferred": "Michiko Neya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95176-3yZnUwXap7nX.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
