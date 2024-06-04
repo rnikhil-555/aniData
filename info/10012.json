@@ -1,0 +1,1583 @@
+{
+  "id": 10012,
+  "idMal": 10012,
+  "title": {
+    "romaji": "Carnival Phantasm",
+    "english": null,
+    "userPreferred": "Carnival Phantasm"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10012-MNLVctKXaIAf.jpg",
+    "color": "#f1c943"
+  },
+  "description": "Carnival Phantasm is an adaption of the manga \"Take Moon\" by Type-Moon's Eri Takenashi, to celebrate Type-Moon's 10th Anniversary.<br><br>\nCarnival Phantasm shows parodies and new stories loosely based on Type-Moon's original works like Melty Blood, Fate/Stay Night, Tsukihime, and more.",
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10012-U5a5plRViPJF.jpg",
+  "episodes": 12,
+  "status": "FINISHED",
+  "duration": 14,
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 2011,
+  "season": "SUMMER",
+  "format": "OVA",
+  "averageScore": 77,
+  "popularity": 47866,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2011,
+    "month": 8,
+    "day": 14
+  },
+  "endDate": {
+    "year": 2011,
+    "month": 12,
+    "day": 31
+  },
+  "trailer": null,
+  "studios": {
+    "nodes": [
+      {
+        "id": 456,
+        "name": "Lerche",
+        "siteUrl": "https://anilist.co/studio/456"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 30780,
+          "title": {
+            "romaji": "TYPE-MOON Sakuhin-shuu: TAKE MOON",
+            "native": "TYPE-MOON作品集・TAKE MOON",
+            "english": "Take Moon"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30780-a6g0QZvZgNzw.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30780-a6g0QZvZgNzw.jpg"
+          },
+          "episodes": null,
+          "chapters": 29,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 12187,
+          "title": {
+            "romaji": "Carnival Phantasm EX Season",
+            "native": "カーニバル・ファンタズム　EX Season",
+            "english": null
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12187-OBPQmrTNC6eY.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12187-OBPQmrTNC6eY.png"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SIDE_STORY",
+        "node": {
+          "id": 15927,
+          "title": {
+            "romaji": "Carnival Phantasm: HibiChika Special",
+            "native": "カーニバル・ファンタズム ひびちかスペシャル",
+            "english": null
+          },
+          "format": "SPECIAL",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15927-QtnfcEJ6epUZ.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15927-QtnfcEJ6epUZ.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 169,
+          "title": {
+            "romaji": "Shingetsutan Tsukihime",
+            "native": "真月譚 月姫",
+            "english": "Lunar Legend Tsukihime"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169-ATwPxULRSDRr.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169-ATwPxULRSDRr.jpg"
+          },
+          "episodes": 12,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 356,
+          "title": {
+            "romaji": "Fate/stay night",
+            "native": "Fate/stay night",
+            "english": "Fate/stay night"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png"
+          },
+          "episodes": 24,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 19603,
+          "title": {
+            "romaji": "Fate/stay night: Unlimited Blade Works",
+            "native": "Fate/stay night [Unlimited Blade Works]",
+            "english": "Fate/stay night: Unlimited Blade Works"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ZIwcXJeIJV3H.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19603-ZIwcXJeIJV3H.jpg"
+          },
+          "episodes": 13,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 2593,
+          "title": {
+            "romaji": "Kara no Kyoukai: Fukan Fuukei",
+            "native": "空の境界 俯瞰風景",
+            "english": "the Garden of sinners Chapter 1: Thanatos. (Overlooking View)"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2593-irF8xIuAOKUc.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2593-irF8xIuAOKUc.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 30707,
+          "title": {
+            "romaji": "Melty Blood",
+            "native": "メルティブラッド",
+            "english": null
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30707-oXVAloPUc3RC.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30707-oXVAloPUc3RC.jpg"
+          },
+          "episodes": null,
+          "chapters": 55,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 6922,
+          "title": {
+            "romaji": "Fate/stay night Movie: UNLIMITED BLADE WORKS",
+            "native": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
+            "english": "Fate/stay night: Unlimited Blade Works (Movie)"
+          },
+          "format": "MOVIE",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6922-g3hsIYOWGXL8.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6922-g3hsIYOWGXL8.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 10087,
+          "title": {
+            "romaji": "Fate/Zero",
+            "native": "Fate/Zero",
+            "english": "Fate/Zero"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-el5Bo1VMZwsU.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-el5Bo1VMZwsU.png"
+          },
+          "episodes": 13,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 127149,
+          "title": {
+            "romaji": "Fate/Grand Carnival",
+            "native": "Fate/Grand Carnival",
+            "english": "Fate/Grand Carnival"
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127149-7dzvudxMb9ep.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127149-7dzvudxMb9ep.jpg"
+          },
+          "episodes": 4,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 12565,
+          "title": {
+            "romaji": "Fate/Prototype",
+            "native": "Fate/Prototype",
+            "english": null
+          },
+          "format": "OVA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12565-paVJhzp4BrF0.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12565-paVJhzp4BrF0.jpg"
+          },
+          "episodes": 1,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 20792,
+          "title": {
+            "romaji": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "english": "Fate/stay night: Unlimited Blade Works 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20792-Q53sZsUAh5FF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20792-Q53sZsUAh5FF.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 106915,
+          "title": {
+            "romaji": "Manga de Wakaru! Fate/Grand Order",
+            "english": "Learning with Manga! Fate/Grand Order"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106915-x92FidDbnpOK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106915-x92FidDbnpOK.jpg"
+          },
+          "episodes": 3,
+          "status": "FINISHED",
+          "format": "SPECIAL",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100855,
+          "title": {
+            "romaji": "Emiya-san Chi no Kyou no Gohan",
+            "english": "Today's Menu for the Emiya Family"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100855-r8cXwdCschnX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100855-r8cXwdCschnX.jpg"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 110178,
+          "title": {
+            "romaji": "Isekai Quartet 2",
+            "english": "Isekai Quartet 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110178-UhigZiRQVwLf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110178-UhigZiRQVwLf.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100093,
+          "title": {
+            "romaji": "Gaikotsu Shotenin Honda-san",
+            "english": "Skull-face Bookseller Honda-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100093-93Stk25kws5e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100093-93Stk25kws5e.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 104454,
+          "title": {
+            "romaji": "Isekai Quartet",
+            "english": "ISEKAI QUARTET"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104454-pH5YCR7HteqP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104454-pH5YCR7HteqP.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100729,
+          "title": {
+            "romaji": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Gijin-hen",
+            "english": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Gijin-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100729-1TmNAHJ9468j.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100729-1TmNAHJ9468j.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "SPECIAL",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 14829,
+          "title": {
+            "romaji": "Fate/kaleid liner Prisma☆Illya",
+            "english": "Fate/kaleid liner Prisma☆Illya"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14829-PZVOr1ZxwOJV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14829-PZVOr1ZxwOJV.png"
+          },
+          "episodes": 10,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 100269,
+          "title": {
+            "romaji": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+            "english": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100269-V8Z7e1OXrDBZ.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10165,
+          "title": {
+            "romaji": "Nichijou",
+            "english": "Nichijou - My Ordinary Life"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10165-1j2Qn8wIIn5S.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10165-1j2Qn8wIIn5S.png"
+          },
+          "episodes": 26,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21281,
+          "title": {
+            "romaji": "Shingeki! Kyojin Chuugakkou",
+            "english": "Attack on Titan: Junior High"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 21719,
+          "title": {
+            "romaji": "Fate/stay night [Heaven's Feel] III. spring song",
+            "english": "Fate/stay night [Heaven’s Feel] III. spring song"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21719-MSdTlkno0Z0u.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21719-MSdTlkno0Z0u.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 7902,
+          "title": {
+            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
+            "english": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg"
+          },
+          "episodes": 16,
+          "status": "FINISHED",
+          "format": "SPECIAL",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 11741,
+          "title": {
+            "romaji": "Fate/Zero 2nd Season",
+            "english": "Fate/Zero Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11741-Twb6iJx77FFV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 127149,
+          "title": {
+            "romaji": "Fate/Grand Carnival",
+            "english": "Fate/Grand Carnival"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127149-7dzvudxMb9ep.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127149-7dzvudxMb9ep.jpg"
+          },
+          "episodes": 4,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 129627,
+          "title": {
+            "romaji": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+            "english": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129627-GiVeOqDUAqUC.png"
+          },
+          "episodes": 4,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 169,
+          "title": {
+            "romaji": "Shingetsutan Tsukihime",
+            "english": "Lunar Legend Tsukihime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169-ATwPxULRSDRr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169-ATwPxULRSDRr.jpg"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 19165,
+          "title": {
+            "romaji": "Fate/Zero Cafe",
+            "english": "Fate/Zero Cafe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19165.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19165.jpg"
+          },
+          "episodes": 2,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 132528,
+          "title": {
+            "romaji": "Kaginado",
+            "english": "KAGINADO"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132528-rIUN5MRBPGy9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132528-rIUN5MRBPGy9.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 117074,
+          "title": {
+            "romaji": "Isekai Quartet: Another World",
+            "english": "Isekai Quartet The Movie: Another World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117074-kgucq8a1ZeOw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117074-kgucq8a1ZeOw.jpg"
+          },
+          "episodes": 1,
+          "status": "FINISHED",
+          "format": "MOVIE",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 143150,
+          "title": {
+            "romaji": "Kaginado Season 2",
+            "english": "KAGI-NADO Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143150-yYb9yimEQocm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143150-yYb9yimEQocm.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 1887,
+          "title": {
+            "romaji": "Lucky☆Star",
+            "english": "Lucky☆Star"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1887-4x8PSzcBKXGe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-4x8PSzcBKXGe.png"
+          },
+          "episodes": 24,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 383,
+          "title": {
+            "romaji": "Galaxy Angel",
+            "english": "Galaxy Angel"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx383-8ZAIQsKzepkF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx383-8ZAIQsKzepkF.jpg"
+          },
+          "episodes": 25,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 159569,
+          "title": {
+            "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
+            "english": "Fate/Grand Order: You've Lost Ritsuka Fujimaru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159569-7UanLTkqLJOy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159569-7UanLTkqLJOy.jpg"
+          },
+          "episodes": 33,
+          "status": "FINISHED",
+          "format": "TV_SHORT",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 10491,
+          "title": {
+            "romaji": "Higurashi no Naku Koro ni Kira",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10491-v4eyoGFyXQR8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10491-v4eyoGFyXQR8.jpg"
+          },
+          "episodes": 4,
+          "status": "FINISHED",
+          "format": "OVA",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 902,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Gilgamesh",
+            "last": "",
+            "full": "Gilgamesh",
+            "native": "ギルガメッシュ",
+            "userPreferred": "Gilgamesh"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95001,
+              "name": {
+                "first": "Tomokazu",
+                "middle": null,
+                "last": "Seki",
+                "full": "Tomokazu Seki",
+                "native": "関智一",
+                "userPreferred": "Tomokazu Seki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 95054,
+              "name": {
+                "first": "Aya",
+                "middle": null,
+                "last": "Endou",
+                "full": "Aya Endou",
+                "native": "遠藤綾",
+                "userPreferred": "Aya Endou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 2765,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Artoria",
+            "last": "Pendragon",
+            "full": "Artoria Pendragon",
+            "native": "アルトリア・ペンドラゴン",
+            "userPreferred": "Artoria Pendragon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b497-t5ugW1trntCB.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95013,
+              "name": {
+                "first": "Ayako",
+                "middle": null,
+                "last": "Kawasumi",
+                "full": "Ayako Kawasumi",
+                "native": "川澄綾子",
+                "userPreferred": "Ayako Kawasumi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-cwl64qXuP2r7.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3340,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Shirou",
+            "last": "Emiya",
+            "full": "Shirou Emiya",
+            "native": "衛宮士郎",
+            "userPreferred": "Shirou Emiya"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b496-7OOjjvqVQbnb.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95016,
+              "name": {
+                "first": "Noriaki",
+                "middle": null,
+                "last": "Sugiyama",
+                "full": "Noriaki Sugiyama",
+                "native": "杉山紀彰",
+                "userPreferred": "Noriaki Sugiyama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4237,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Kojirou",
+            "last": "Sasaki",
+            "full": "Kojirou Sasaki",
+            "native": "佐々木小次郎",
+            "userPreferred": "Kojirou Sasaki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2585-rWFs7LihpIFZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95022,
+              "name": {
+                "first": "Shinichirou",
+                "middle": null,
+                "last": "Miki",
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎",
+                "userPreferred": "Shinichirou Miki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 9081,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Caren",
+            "last": "Hortensia",
+            "full": "Caren Hortensia",
+            "native": "カレン・オルテンシア",
+            "userPreferred": "Caren Hortensia"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46957-eiztsJtmmRjF.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95070,
+              "name": {
+                "first": "Ami",
+                "middle": null,
+                "last": "Koshimizu",
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美",
+                "userPreferred": "Ami Koshimizu"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 9536,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Shiki",
+            "last": "Tohno",
+            "full": "Shiki Tohno",
+            "native": "遠野志貴",
+            "userPreferred": "Shiki Tohno"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2212-pgKYEq8gGCsY.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95074,
+              "name": {
+                "first": "Kenji",
+                "middle": null,
+                "last": "Nojima",
+                "full": "Kenji Nojima",
+                "native": "野島健児",
+                "userPreferred": "Kenji Nojima"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 9537,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Neko Arc",
+            "last": "Evolution",
+            "full": "Neko Arc Evolution",
+            "native": "ネコアルク・エボリューション",
+            "userPreferred": "Neko Arc Evolution"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/52205.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95074,
+              "name": {
+                "first": "Kenji",
+                "middle": null,
+                "last": "Nojima",
+                "full": "Kenji Nojima",
+                "native": "野島健児",
+                "userPreferred": "Kenji Nojima"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 11901,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Kirei",
+            "last": "Kotomine",
+            "full": "Kirei Kotomine",
+            "native": "言峰綺礼",
+            "userPreferred": "Kirei Kotomine"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95091,
+              "name": {
+                "first": "Jouji",
+                "middle": null,
+                "last": "Nakata",
+                "full": "Jouji Nakata",
+                "native": "中田譲治",
+                "userPreferred": "Jouji Nakata"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 11902,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Neko Arc",
+            "last": "Chaos",
+            "full": "Neko Arc Chaos",
+            "native": "ネコアルク・カオス",
+            "userPreferred": "Neko Arc Chaos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46699.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95091,
+              "name": {
+                "first": "Jouji",
+                "middle": null,
+                "last": "Nakata",
+                "full": "Jouji Nakata",
+                "native": "中田譲治",
+                "userPreferred": "Jouji Nakata"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 11903,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Nrvnqsr",
+            "last": "Chaos",
+            "full": "Nrvnqsr Chaos",
+            "native": "ネロ・カオス",
+            "userPreferred": "Nrvnqsr Chaos"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4264-LhWDp1LkPepe.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95091,
+              "name": {
+                "first": "Jouji",
+                "middle": null,
+                "last": "Nakata",
+                "full": "Jouji Nakata",
+                "native": "中田譲治",
+                "userPreferred": "Jouji Nakata"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 12437,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Riesbyfe",
+            "last": "Stridberg",
+            "full": "Riesbyfe Stridberg",
+            "native": "リーズバイフェ・ストリンドヴァリ",
+            "userPreferred": "Riesbyfe Stridberg"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/12737.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95094,
+              "name": {
+                "first": "Akeno",
+                "middle": null,
+                "last": "Watanabe",
+                "full": "Akeno Watanabe",
+                "native": "渡边明乃",
+                "userPreferred": "Akeno Watanabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 12598,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Archer",
+            "last": null,
+            "full": "Archer",
+            "native": "アーチャー",
+            "userPreferred": "Archer"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95095,
+              "name": {
+                "first": "Junichi",
+                "middle": null,
+                "last": "Suwabe",
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一",
+                "userPreferred": "Junichi Suwabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 12767,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Cú ",
+            "last": "Chulainn",
+            "full": "Cú  Chulainn",
+            "native": "クー・フーリン",
+            "userPreferred": "Cú  Chulainn"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95096,
+              "name": {
+                "first": "Nobutoshi",
+                "middle": null,
+                "last": "Kanna",
+                "full": "Nobutoshi Kanna",
+                "native": "神奈延年",
+                "userPreferred": "Nobutoshi Kanna"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 13312,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Neko Arc",
+            "last": "Destiny",
+            "full": "Neko Arc Destiny",
+            "native": "ネコアルク・ディスティニー",
+            "userPreferred": "Neko Arc Destiny"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/46813.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95100,
+              "name": {
+                "first": "Atsuko",
+                "middle": null,
+                "last": "Tanaka",
+                "full": "Atsuko Tanaka",
+                "native": "田中敦子",
+                "userPreferred": "Atsuko Tanaka"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-QZdjWZLCoWkf.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 13313,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Medea",
+            "last": null,
+            "full": "Medea",
+            "native": "メデイア",
+            "userPreferred": "Medea"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3440-134Ip9KiQeZL.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95100,
+              "name": {
+                "first": "Atsuko",
+                "middle": null,
+                "last": "Tanaka",
+                "full": "Atsuko Tanaka",
+                "native": "田中敦子",
+                "userPreferred": "Atsuko Tanaka"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-QZdjWZLCoWkf.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14155,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Nero",
+            "last": "Claudius",
+            "full": "Nero Claudius",
+            "native": "ネロ・クラウディウス",
+            "userPreferred": "Nero Claudius"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b51523-OYPKGtJqtzSU.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95115,
+              "name": {
+                "first": "Sakura",
+                "middle": null,
+                "last": "Tange",
+                "full": "Sakura Tange",
+                "native": "丹下桜",
+                "userPreferred": "Sakura Tange"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95115-AtF7VsdIk51q.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14189,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Rin",
+            "last": "Tohsaka",
+            "full": "Rin Tohsaka",
+            "native": "遠坂凛",
+            "userPreferred": "Rin Tohsaka"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b498-n8WPZtU8l0Cz.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95116,
+              "name": {
+                "first": "Kana",
+                "middle": null,
+                "last": "Ueda",
+                "full": "Kana Ueda",
+                "native": "植田佳奈",
+                "userPreferred": "Kana Ueda"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14330,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Illyasviel",
+            "last": "von Einzbern",
+            "full": "Illyasviel von Einzbern",
+            "native": "イリヤスフィール・フォン・アインツベルン",
+            "userPreferred": "Illyasviel von Einzbern"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95117,
+              "name": {
+                "first": "Mai",
+                "middle": null,
+                "last": "Kadowaki",
+                "full": "Mai Kadowaki",
+                "native": "門脇舞以",
+                "userPreferred": "Mai Kadowaki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95117-TpLo1AeJRfVJ.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14420,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Shinji",
+            "last": "Matou",
+            "full": "Shinji Matou",
+            "native": "間桐慎二",
+            "userPreferred": "Shinji Matou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b501-yg63fxGVC6cK.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95118,
+              "name": {
+                "first": "Hiroshi",
+                "middle": null,
+                "last": "Kamiya",
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史",
+                "userPreferred": "Hiroshi Kamiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14588,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Medusa",
+            "last": null,
+            "full": "Medusa",
+            "native": "メドゥーサ",
+            "userPreferred": "Medusa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b502-gDGBEmVrMyk2.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95119,
+              "name": {
+                "first": "Yuu",
+                "middle": null,
+                "last": "Asakawa",
+                "full": "Yuu Asakawa",
+                "native": "浅川悠",
+                "userPreferred": "Yuu Asakawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14673,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Seihai-kun",
+            "last": null,
+            "full": "Seihai-kun",
+            "native": "聖杯くん",
+            "userPreferred": "Seihai-kun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/54407.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95120,
+              "name": {
+                "first": "Noriko",
+                "middle": null,
+                "last": "Shitaya",
+                "full": "Noriko Shitaya",
+                "native": "下屋則子",
+                "userPreferred": "Noriko Shitaya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95120-XwX1WdxBi5C2.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14674,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Sakura",
+            "last": "Matou",
+            "full": "Sakura Matou",
+            "native": "間桐桜",
+            "userPreferred": "Sakura Matou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b500-5p55QWEoMou0.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95120,
+              "name": {
+                "first": "Noriko",
+                "middle": null,
+                "last": "Shitaya",
+                "full": "Noriko Shitaya",
+                "native": "下屋則子",
+                "userPreferred": "Noriko Shitaya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95120-XwX1WdxBi5C2.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14740,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Taiga",
+            "last": "Fujimura",
+            "full": "Taiga Fujimura",
+            "native": "藤村大河",
+            "userPreferred": "Taiga Fujimura"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95121,
+              "name": {
+                "first": "Miki",
+                "middle": null,
+                "last": "Itou",
+                "full": "Miki Itou",
+                "native": "伊藤美紀 ",
+                "userPreferred": "Miki Itou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95121-FCp9NcoFgKZk.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14856,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Soichirou",
+            "last": "Kuzuki",
+            "full": "Soichirou Kuzuki",
+            "native": "葛木宗一郎",
+            "userPreferred": "Soichirou Kuzuki"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3439-N3HN8zxumCDP.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95122,
+              "name": {
+                "first": "Kazuhiro",
+                "middle": null,
+                "last": "Nakata",
+                "full": "Kazuhiro Nakata",
+                "native": "中田和宏",
+                "userPreferred": "Kazuhiro Nakata"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/122.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 16810,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Neco-Arc",
+            "last": null,
+            "full": "Neco-Arc",
+            "native": "ネコアルク",
+            "userPreferred": "Neco-Arc"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46809-vugEKQGhg4Hc.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95141,
+              "name": {
+                "first": "Ryouka",
+                "middle": null,
+                "last": "Yuzuki",
+                "full": "Ryouka Yuzuki",
+                "native": "柚木涼香",
+                "userPreferred": "Ryouka Yuzuki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
