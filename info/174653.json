@@ -1,0 +1,560 @@
+{
+  "id": 174653,
+  "idMal": 58080,
+  "title": {
+    "romaji": "Kenka Dokugaku",
+    "english": "Viral Hit",
+    "userPreferred": "Kenka Dokugaku"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174653-OsnK4BuENjUT.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-OsnK4BuENjUT.jpg",
+    "color": "#d61a1a"
+  },
+  "description": "Scrawny high school student Hobin Yu is probably the last guy you’d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?\n<br><br>\n(Source: WEBTOON)",
+  "bannerImage": null,
+  "episodes": null,
+  "status": "RELEASING",
+  "duration": 23,
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 2024,
+  "season": "SPRING",
+  "format": "TV",
+  "averageScore": 66,
+  "popularity": 15653,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": {
+    "airingAt": 1717602900,
+    "episode": 9
+  },
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 11
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "trailer": {
+    "id": "zKFWWXhcZrQ",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/zKFWWXhcZrQ/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 6314,
+        "name": "Okuruto Noboru",
+        "siteUrl": "https://anilist.co/studio/6314"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 121991,
+          "title": {
+            "romaji": "Ssaumdokak",
+            "native": "싸움독학",
+            "english": "Viral Hit"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121991-hwrVszteyodi.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121991-hwrVszteyodi.jpg"
+          },
+          "episodes": null,
+          "chapters": 222,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 158539,
+          "title": {
+            "romaji": "Oemojisangjuui",
+            "english": "Lookism"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158539-Uptkf6A8tcQW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158539-Uptkf6A8tcQW.jpg"
+          },
+          "episodes": 8,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 118569,
+          "title": {
+            "romaji": "Elite Banana Banao",
+            "english": null
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118569-TWUWW9T4yDSx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118569-TWUWW9T4yDSx.jpg"
+          },
+          "episodes": 9,
+          "status": "FINISHED",
+          "format": "ONA",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 151807,
+          "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-yxY3olrjZH4k.png"
+          },
+          "episodes": 12,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      },
+      {
+        "mediaRecommendation": {
+          "id": 116006,
+          "title": {
+            "romaji": "THE GOD OF HIGH SCHOOL",
+            "english": "The God of High School"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116006-Wt8JSA1ZQxlM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116006-Wt8JSA1ZQxlM.png"
+          },
+          "episodes": 13,
+          "status": "FINISHED",
+          "format": "TV",
+          "nextAiringEpisode": null
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 471998,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ji-Hyeok",
+            "last": "Woo",
+            "full": "Ji-Hyeok Woo",
+            "native": "우지혁",
+            "userPreferred": "Ji-Hyeok Woo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193867-QB0S8Sz23Qie.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95270,
+              "name": {
+                "first": "Nobuhiko",
+                "middle": null,
+                "last": "Okamoto",
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦",
+                "userPreferred": "Nobuhiko Okamoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96047,
+              "name": {
+                "first": "Jessie James",
+                "middle": null,
+                "last": "Grelle",
+                "full": "Jessie James Grelle",
+                "native": null,
+                "userPreferred": "Jessie James Grelle"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96047-E9nBWn3YL0Tn.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 471999,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ho-Bin",
+            "last": "Yoo",
+            "full": "Ho-Bin Yoo",
+            "native": "유호빈",
+            "userPreferred": "Ho-Bin Yoo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193869-l1YoNFjOmrU7.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 298365,
+              "name": {
+                "first": "Satoshi",
+                "middle": null,
+                "last": "Niwa",
+                "full": "Satoshi Niwa",
+                "native": "丹羽哲士",
+                "userPreferred": "Satoshi Niwa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n298365-gpkl6i8uTYOZ.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 301639,
+              "name": {
+                "first": "Brandon",
+                "middle": null,
+                "last": "Acosta",
+                "full": "Brandon Acosta",
+                "native": null,
+                "userPreferred": "Brandon Acosta"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n301639-gHWICX790GKc.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474443,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Tae-Hoon",
+            "last": "Seong",
+            "full": "Tae-Hoon Seong",
+            "native": "성태훈",
+            "userPreferred": "Tae-Hoon Seong"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193930-X5jkpJb3cMNK.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 115156,
+              "name": {
+                "first": "Kaito",
+                "middle": null,
+                "last": "Ishikawa",
+                "full": "Kaito Ishikawa",
+                "native": "石川界人",
+                "userPreferred": "Kaito Ishikawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474444,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Moon-Sung",
+            "last": "Kim",
+            "full": "Moon-Sung Kim",
+            "native": "김문성",
+            "userPreferred": "Moon-Sung Kim"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b194328-LglvTHp94MKs.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95513,
+              "name": {
+                "first": "Yuuichi",
+                "middle": null,
+                "last": "Nakamura",
+                "full": "Yuuichi Nakamura",
+                "native": "中村悠一",
+                "userPreferred": "Yuuichi Nakamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 111775,
+              "name": {
+                "first": "Ricco",
+                "middle": null,
+                "last": "Fajardo",
+                "full": "Ricco Fajardo",
+                "native": null,
+                "userPreferred": "Ricco Fajardo"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111775-TVUcuiV0X1Dg.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474445,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ru-Mi",
+            "last": "Yeo",
+            "full": "Ru-Mi Yeo",
+            "native": "여루미",
+            "userPreferred": "Ru-Mi Yeo"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193932-sRkI32UUz02Y.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 118475,
+              "name": {
+                "first": "Yoshino",
+                "middle": null,
+                "last": "Aoyama",
+                "full": "Yoshino Aoyama",
+                "native": "青山吉能",
+                "userPreferred": "Yoshino Aoyama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118475-19IqPJRpa08T.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 113057,
+              "name": {
+                "first": "Morgan",
+                "middle": null,
+                "last": "Lauré",
+                "full": "Morgan Lauré",
+                "native": null,
+                "userPreferred": "Morgan Lauré"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/18057.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474446,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Bo-Mi",
+            "last": "Choi",
+            "full": "Bo-Mi Choi",
+            "native": "최보미",
+            "userPreferred": "Bo-Mi Choi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193929-V80LPAzWwjZv.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 100142,
+              "name": {
+                "first": "Yui",
+                "middle": null,
+                "last": "Ishikawa",
+                "full": "Yui Ishikawa",
+                "native": "石川由依",
+                "userPreferred": "Yui Ishikawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 271719,
+              "name": {
+                "first": "Molly",
+                "middle": null,
+                "last": "Zhang",
+                "full": "Molly Zhang",
+                "native": null,
+                "userPreferred": "Molly Zhang"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n271719-1lf9OunakE4n.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474447,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Wang-Guk",
+            "last": "Han",
+            "full": "Wang-Guk Han",
+            "native": "한왕국",
+            "userPreferred": "Wang-Guk Han"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b194327-LOg4XVOhEERh.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119185,
+              "name": {
+                "first": "Shunsuke",
+                "middle": null,
+                "last": "Takeuchi",
+                "full": "Shunsuke Takeuchi",
+                "native": "武内駿輔",
+                "userPreferred": "Shunsuke Takeuchi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 474448,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ga-Eul",
+            "last": null,
+            "full": "Ga-Eul",
+            "native": "가을",
+            "userPreferred": "Ga-Eul"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193868-Q2r8Xb3oKX6C.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 133625,
+              "name": {
+                "first": "Fairouz Ai",
+                "middle": null,
+                "last": "",
+                "full": "Fairouz Ai",
+                "native": "ファイルーズあい",
+                "userPreferred": "Fairouz Ai"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+              }
+            }
+          },
+          {
+            "voiceActor": {
+              "id": 96804,
+              "name": {
+                "first": "Trina",
+                "middle": null,
+                "last": "Nishimura",
+                "full": "Trina Nishimura",
+                "native": null,
+                "userPreferred": "Trina Nishimura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96804-0OKQgacznkZ4.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 476996,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Samdak",
+            "last": null,
+            "full": "Samdak",
+            "native": null,
+            "userPreferred": "Samdak"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b329981-RQgFmGfH1a8k.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95002,
+              "name": {
+                "first": "Tomokazu",
+                "middle": null,
+                "last": "Sugita",
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和",
+                "userPreferred": "Tomokazu Sugita"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
