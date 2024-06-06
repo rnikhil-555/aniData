@@ -1,0 +1,363 @@
+{
+  "id": 153406,
+  "idMal": 52635,
+  "title": {
+    "romaji": "Kami no Tou: Tower of God 2nd SEASON",
+    "english": "Tower of God Season 2",
+    "userPreferred": "Kami no Tou: Tower of God 2nd SEASON"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-imNYLPKPDDzY.png",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-imNYLPKPDDzY.png",
+    "color": "#5dbbf1"
+  },
+  "description": "The second season of <i>Kami no Tou: Tower of God</i>.",
+  "bannerImage": null,
+  "episodes": null,
+  "status": "NOT_YET_RELEASED",
+  "duration": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "source": "MANGA",
+  "type": "ANIME",
+  "seasonYear": 2024,
+  "season": "SUMMER",
+  "format": "TV",
+  "averageScore": null,
+  "popularity": 38130,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2024,
+    "month": 7,
+    "day": null
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "trailer": {
+    "id": "QZNIqX7aMUg",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/QZNIqX7aMUg/hqdefault.jpg"
+  },
+  "studios": {
+    "nodes": [
+      {
+        "id": 229,
+        "name": "The Answer Studio",
+        "siteUrl": "https://anilist.co/studio/229"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "SOURCE",
+        "node": {
+          "id": 85143,
+          "title": {
+            "romaji": "Sinui Tap",
+            "native": "신의 탑",
+            "english": "Tower of God"
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85143-lW27BYY5zMqC.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85143-lW27BYY5zMqC.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "RELEASING"
+        }
+      },
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 115230,
+          "title": {
+            "romaji": "Kami no Tou: Tower of God",
+            "native": "神之塔 -Tower of God-",
+            "english": "Tower of God"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115230-QHOdSN7yt8ab.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg"
+          },
+          "episodes": 13,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 382459,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Rachel",
+            "last": null,
+            "full": "Rachel",
+            "native": "라헬",
+            "userPreferred": "Rachel"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135466-vgW4DewsSkER.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95869,
+              "name": {
+                "first": "Saori",
+                "middle": null,
+                "last": "Hayami",
+                "full": "Saori Hayami",
+                "native": "早見沙織",
+                "userPreferred": "Saori Hayami"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 382461,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Twenty-Fifth Baam",
+            "last": null,
+            "full": "Twenty-Fifth Baam",
+            "native": "스물다섯번째 밤",
+            "userPreferred": "Twenty-Fifth Baam"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 121513,
+              "name": {
+                "first": "Taichi",
+                "middle": null,
+                "last": "Ichikawa",
+                "full": "Taichi Ichikawa",
+                "native": "市川太一",
+                "userPreferred": "Taichi Ichikawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121513-q4zPWsycThyt.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 382462,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Rak",
+            "last": "Wraithraiser",
+            "full": "Rak Wraithraiser",
+            "native": "라크 레크레이셔",
+            "userPreferred": "Rak Wraithraiser"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84783-m1qgQvKVAoNn.jpg"
+          }
+        },
+        "voiceActorRoles": []
+      },
+      {
+        "id": 382463,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Aguero Agnis",
+            "last": "Khun",
+            "full": "Aguero Agnis Khun",
+            "native": "쿤 아게로 아그니스",
+            "userPreferred": "Aguero Agnis Khun"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95270,
+              "name": {
+                "first": "Nobuhiko",
+                "middle": null,
+                "last": "Okamoto",
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦",
+                "userPreferred": "Nobuhiko Okamoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 382464,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Yuri",
+            "last": "Ha Jahad",
+            "full": "Yuri Ha Jahad",
+            "native": "하유리자하드",
+            "userPreferred": "Yuri Ha Jahad"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b84777-xeZZ3a9YM2Cn.png"
+          }
+        },
+        "voiceActorRoles": []
+      },
+      {
+        "id": 382465,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Wangnan",
+            "last": "Ja",
+            "full": "Wangnan Ja",
+            "native": "자왕난",
+            "userPreferred": "Wangnan Ja"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135472-gsDzmTe4zJck.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119617,
+              "name": {
+                "first": "Yuuma",
+                "middle": null,
+                "last": "Uchida",
+                "full": "Yuuma Uchida",
+                "native": "内田雄馬",
+                "userPreferred": "Yuuma Uchida"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 382466,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Endorsi",
+            "last": "Jahad",
+            "full": "Endorsi Jahad",
+            "native": "엔도르시자하드",
+            "userPreferred": "Endorsi Jahad"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124138-2WCq8CD8FEsv.png"
+          }
+        },
+        "voiceActorRoles": []
+      },
+      {
+        "id": 477451,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ehwa",
+            "last": "Yeon",
+            "full": "Ehwa Yeon",
+            "native": "연이화",
+            "userPreferred": "Ehwa Yeon"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135475-XyLwecfoZB50.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 121023,
+              "name": {
+                "first": "Sayumi",
+                "middle": null,
+                "last": "Watabe",
+                "full": "Sayumi Watabe",
+                "native": "渡部紗弓",
+                "userPreferred": "Sayumi Watabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121023-dyyzFJDPJlX8.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 477453,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Ho-Ryang",
+            "last": "Kang",
+            "full": "Ho-Ryang Kang",
+            "native": "강호량",
+            "userPreferred": "Ho-Ryang Kang"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330238-WSJqw68dYc3e.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 105273,
+              "name": {
+                "first": "Kenichirou",
+                "middle": null,
+                "last": "Matsuda",
+                "full": "Kenichirou Matsuda",
+                "native": "松田健一郎",
+                "userPreferred": "Kenichirou Matsuda"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
