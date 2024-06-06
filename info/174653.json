@@ -25,12 +25,12 @@
   "seasonYear": 2024,
   "season": "SPRING",
   "format": "TV",
-  "averageScore": 66,
-  "popularity": 15653,
+  "averageScore": 67,
+  "popularity": 16302,
   "countryOfOrigin": "JP",
   "nextAiringEpisode": {
-    "airingAt": 1717602900,
-    "episode": 9
+    "airingAt": 1718207700,
+    "episode": 10
   },
   "startDate": {
     "year": 2024,
@@ -550,6 +550,40 @@
               },
               "image": {
                 "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 488109,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Man-Gi",
+            "last": "Hwang",
+            "full": "Man-Gi Hwang",
+            "native": "황만기",
+            "userPreferred": "Man-Gi Hwang"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193928-M3Oy4jwWIynb.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 96489,
+              "name": {
+                "first": "Tomoaki",
+                "middle": null,
+                "last": "Maeno",
+                "full": "Tomoaki Maeno",
+                "native": "前野智昭",
+                "userPreferred": "Tomoaki Maeno"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
               }
             }
           }
