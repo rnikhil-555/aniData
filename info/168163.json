@@ -1,0 +1,126 @@
+{
+  "id": 168163,
+  "idMal": null,
+  "title": {
+    "romaji": "Dou Po Cangqiong: Nian Fan 2",
+    "english": null,
+    "userPreferred": "Dou Po Cangqiong: Nian Fan 2"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168163-TiHA6iTauYZ0.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168163-TiHA6iTauYZ0.jpg",
+    "color": "#f18643"
+  },
+  "description": "The sixth season of <i>Dou Po Cangqiong</i>.",
+  "bannerImage": null,
+  "episodes": 52,
+  "status": "RELEASING",
+  "duration": 24,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "source": "OTHER",
+  "type": "ANIME",
+  "seasonYear": null,
+  "season": null,
+  "format": "ONA",
+  "averageScore": 75,
+  "popularity": 574,
+  "countryOfOrigin": "CN",
+  "nextAiringEpisode": {
+    "airingAt": 1718503200,
+    "episode": 49
+  },
+  "startDate": {
+    "year": 2023,
+    "month": 7,
+    "day": 16
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 7,
+    "day": 7
+  },
+  "trailer": null,
+  "studios": {
+    "nodes": [
+      {
+        "id": 6470,
+        "name": "Motion Magic",
+        "siteUrl": "https://anilist.co/studio/6470"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "PREQUEL",
+        "node": {
+          "id": 137728,
+          "title": {
+            "romaji": "Dou Po Cangqiong: Nian Fan",
+            "native": "斗破苍穹 年番",
+            "english": null
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137728-13R2XCiI9oc8.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137728-13R2XCiI9oc8.png"
+          },
+          "episodes": 52,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "SEQUEL",
+        "node": {
+          "id": 168164,
+          "title": {
+            "romaji": "Dou Po Cangqiong: Nian Fan 3",
+            "native": "斗破苍穹 年番3",
+            "english": null
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168164-u56VsAe2DUAH.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168164-u56VsAe2DUAH.png"
+          },
+          "episodes": 52,
+          "chapters": null,
+          "status": "NOT_YET_RELEASED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": [
+      {
+        "mediaRecommendation": {
+          "id": 137671,
+          "title": {
+            "romaji": "Zhe Tian",
+            "english": "Shrouding the Heavens"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137671-PzYKwpStSLIF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png"
+          },
+          "episodes": 104,
+          "status": "RELEASING",
+          "format": "ONA",
+          "nextAiringEpisode": {
+            "airingAt": 1718157600,
+            "timeUntilAiring": 244612,
+            "episode": 61
+          }
+        }
+      }
+    ]
+  },
+  "characters": {
+    "edges": []
+  }
+}
