@@ -1,0 +1,445 @@
+{
+  "id": 142274,
+  "idMal": 50418,
+  "title": {
+    "romaji": "Ninjala",
+    "english": "Ninjala the Animation",
+    "userPreferred": "Ninjala"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
+    "color": "#f1bb43"
+  },
+  "description": "The year is 20XX. The ninja, who once forged the history of Japan, were scattered across the country during the Meiji Restoration. As these ninja mingled with the other clans, their bloodline thinned, and they gradually faded from sight. The descendants of these ninja clans, seeking to preserve their heritage, formed the WNA (World Ninja Association) in the hope of carrying on their legacy.\n<br><br>\nAnd so it was that the WNA succeeded in developing Ninja-Gum, an art which could summon forth the strength of the Shinobi. And yet creating the most powerful Ninja-Gum requires the strongest of ninja DNA. So it was that the Ninjala Tournament was held, that the mightiest of all ninjas could be found...\n<br><br>\n(Source: Official Game website)",
+  "bannerImage": null,
+  "episodes": null,
+  "status": "RELEASING",
+  "duration": 23,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "source": "VIDEO_GAME",
+  "type": "ANIME",
+  "seasonYear": 2022,
+  "season": "WINTER",
+  "format": "TV",
+  "averageScore": 47,
+  "popularity": 964,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": {
+    "airingAt": 1720218600,
+    "episode": 125
+  },
+  "startDate": {
+    "year": 2022,
+    "month": 1,
+    "day": 8
+  },
+  "endDate": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "trailer": null,
+  "studios": {
+    "nodes": [
+      {
+        "id": 28,
+        "name": "OLM",
+        "siteUrl": "https://anilist.co/studio/28"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "ALTERNATIVE",
+        "node": {
+          "id": 118308,
+          "title": {
+            "romaji": "Ninjala",
+            "native": "ニンジャラ",
+            "english": null
+          },
+          "format": "MANGA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118308-5EBdqiGQmBPV.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118308-5EBdqiGQmBPV.jpg"
+          },
+          "episodes": null,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      },
+      {
+        "relationType": "CHARACTER",
+        "node": {
+          "id": 123778,
+          "title": {
+            "romaji": "Ninjala Cartoon Anime",
+            "native": "ニンジャラ カートゥーンアニメ",
+            "english": "Ninjala 2D Cartoon Anime"
+          },
+          "format": "ONA",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123778-mZj3HUl4utfP.png",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123778-mZj3HUl4utfP.png"
+          },
+          "episodes": 5,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 343559,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Berecca",
+            "last": null,
+            "full": "Berecca",
+            "native": "べレッカ",
+            "userPreferred": "Berecca"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186793-cFtRQLLw1s7y.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119722,
+              "name": {
+                "first": "Akari",
+                "middle": null,
+                "last": "Kitou",
+                "full": "Akari Kitou",
+                "native": "鬼頭明里",
+                "userPreferred": "Akari Kitou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343560,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Burton",
+            "last": null,
+            "full": "Burton",
+            "native": "バートン",
+            "userPreferred": "Burton"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186792-LWtwSWWIRiGZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95079,
+              "name": {
+                "first": "Takahiro",
+                "middle": null,
+                "last": "Sakurai",
+                "full": "Takahiro Sakurai",
+                "native": "櫻井孝宏",
+                "userPreferred": "Takahiro Sakurai"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343561,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ron",
+            "last": null,
+            "full": "Ron",
+            "native": "ロン",
+            "userPreferred": "Ron"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186794-OGeyfPmDCjm7.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95025,
+              "name": {
+                "first": "Hiroki",
+                "middle": null,
+                "last": "Yasumoto",
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴",
+                "userPreferred": "Hiroki Yasumoto"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343562,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Jane",
+            "last": null,
+            "full": "Jane",
+            "native": "ジェーン",
+            "userPreferred": "Jane"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187907-yJszgkoEphDR.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95062,
+              "name": {
+                "first": "Junko",
+                "middle": null,
+                "last": "Minagawa",
+                "full": "Junko Minagawa",
+                "native": "皆川純子",
+                "userPreferred": "Junko Minagawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95062-YMTfpO89SgQp.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343563,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Lucy",
+            "last": null,
+            "full": "Lucy",
+            "native": "ルーシー",
+            "userPreferred": "Lucy"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187871-QtC1yqcLkiXl.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 101686,
+              "name": {
+                "first": "Aoi",
+                "middle": null,
+                "last": "Yuuki",
+                "full": "Aoi Yuuki",
+                "native": "悠木碧",
+                "userPreferred": "Aoi Yuuki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343564,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Van",
+            "last": null,
+            "full": "Van",
+            "native": "バーン",
+            "userPreferred": "Van"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187875-pwlHH5g4C6XF.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95539,
+              "name": {
+                "first": "Yumiko",
+                "middle": null,
+                "last": "Kobayashi",
+                "full": "Yumiko Kobayashi",
+                "native": "小林由美子",
+                "userPreferred": "Yumiko Kobayashi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95539-vFLypMio70hC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343565,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Kappei",
+            "last": null,
+            "full": "Kappei",
+            "native": "カッペイ",
+            "userPreferred": "Kappei"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193481-RBR9Mbtz06Cg.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 110919,
+              "name": {
+                "first": "Ayumu",
+                "middle": null,
+                "last": "Murase",
+                "full": "Ayumu Murase",
+                "native": "村瀬歩",
+                "userPreferred": "Ayumu Murase"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 343566,
+        "role": "SUPPORTING",
+        "node": {
+          "name": {
+            "first": "Gumchi",
+            "last": null,
+            "full": "Gumchi",
+            "native": "ガムッチ",
+            "userPreferred": "Gumchi"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b193482-H4AL3mYddmOS.jpg"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 129363,
+              "name": {
+                "first": "Honoka",
+                "middle": null,
+                "last": "Inoue",
+                "full": "Honoka Inoue",
+                "native": "井上ほの花",
+                "userPreferred": "Honoka Inoue"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129363-kFOtvmwj26Ab.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 344279,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Emma",
+            "last": null,
+            "full": "Emma",
+            "native": "エマ",
+            "userPreferred": "Emma"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b258199-uyJ0mBgui1vj.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 107961,
+              "name": {
+                "first": "Megumi",
+                "middle": null,
+                "last": "Han",
+                "full": "Megumi Han",
+                "native": "潘めぐみ",
+                "userPreferred": "Megumi Han"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 476708,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Ezet",
+            "last": "",
+            "full": "Ezet",
+            "native": "エゼット",
+            "userPreferred": "Ezet"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b306764-m6fr42ux9gWL.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 119319,
+              "name": {
+                "first": "Junya",
+                "middle": null,
+                "last": "Enoki",
+                "full": "Junya Enoki",
+                "native": "榎木淳弥",
+                "userPreferred": "Junya Enoki"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
