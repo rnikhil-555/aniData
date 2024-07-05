@@ -1,0 +1,523 @@
+{
+  "id": 20679,
+  "idMal": 23341,
+  "title": {
+    "romaji": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka",
+    "english": "The Irregular at Magic High School: Get to Know Magic Studies",
+    "userPreferred": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka"
+  },
+  "coverImage": {
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20679.jpg",
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20679.jpg",
+    "color": "#bbe4f1"
+  },
+  "description": "Special introduction videos posted on the official website.\n<br><br>\n\nThe 7th episode was released exclusively on DVD/BluRay",
+  "bannerImage": null,
+  "episodes": 7,
+  "status": "FINISHED",
+  "duration": 3,
+  "genres": [
+    "Comedy"
+  ],
+  "source": null,
+  "type": "ANIME",
+  "seasonYear": 2014,
+  "season": "WINTER",
+  "format": "ONA",
+  "averageScore": 58,
+  "popularity": 6417,
+  "countryOfOrigin": "JP",
+  "nextAiringEpisode": null,
+  "startDate": {
+    "year": 2014,
+    "month": 2,
+    "day": 22
+  },
+  "endDate": {
+    "year": 2015,
+    "month": 2,
+    "day": 25
+  },
+  "trailer": null,
+  "studios": {
+    "nodes": [
+      {
+        "id": 17,
+        "name": "Aniplex",
+        "siteUrl": "https://anilist.co/studio/17"
+      }
+    ]
+  },
+  "relations": {
+    "edges": [
+      {
+        "relationType": "OTHER",
+        "node": {
+          "id": 20458,
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei",
+            "native": "魔法科高校の劣等生",
+            "english": "The Irregular at Magic High School"
+          },
+          "format": "TV",
+          "coverImage": {
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20458-tGh343Ew10yU.jpg",
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20458-tGh343Ew10yU.jpg"
+          },
+          "episodes": 26,
+          "chapters": null,
+          "status": "FINISHED"
+        }
+      }
+    ]
+  },
+  "recommendations": {
+    "nodes": []
+  },
+  "characters": {
+    "edges": [
+      {
+        "id": 97387,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Miyuki",
+            "last": "Shiba",
+            "full": "Miyuki Shiba",
+            "native": "司波深雪",
+            "userPreferred": "Miyuki Shiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95869,
+              "name": {
+                "first": "Saori",
+                "middle": null,
+                "last": "Hayami",
+                "full": "Saori Hayami",
+                "native": "早見沙織",
+                "userPreferred": "Saori Hayami"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97388,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Tatsuya",
+            "last": "Shiba",
+            "full": "Tatsuya Shiba",
+            "native": "司波達也",
+            "userPreferred": "Tatsuya Shiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95513,
+              "name": {
+                "first": "Yuuichi",
+                "middle": null,
+                "last": "Nakamura",
+                "full": "Yuuichi Nakamura",
+                "native": "中村悠一",
+                "userPreferred": "Yuuichi Nakamura"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 97389,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Erika",
+            "last": "Chiba",
+            "full": "Erika Chiba",
+            "native": "千葉エリカ",
+            "userPreferred": "Erika Chiba"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72311-dfnWHh76AnU9.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 106784,
+              "name": {
+                "first": "Yumi",
+                "middle": null,
+                "last": "Uchiyama",
+                "full": "Yumi Uchiyama",
+                "native": "内山夕実",
+                "userPreferred": "Yumi Uchiyama"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 201341,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Honoka",
+            "last": "Mitsui",
+            "full": "Honoka Mitsui",
+            "native": "光井ほのか",
+            "userPreferred": "Honoka Mitsui"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88191-xKYDdQ7Of16a.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 116517,
+              "name": {
+                "first": "Sora",
+                "middle": null,
+                "last": "Amamiya",
+                "full": "Sora Amamiya",
+                "native": "雨宮天",
+                "userPreferred": "Sora Amamiya"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 221157,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Mizuki",
+            "last": "Shibata",
+            "full": "Mizuki Shibata",
+            "native": "柴田美月",
+            "userPreferred": "Mizuki Shibata"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88197-udOwm5WkVfvH.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 101560,
+              "name": {
+                "first": "Satomi",
+                "middle": null,
+                "last": "Satou",
+                "full": "Satomi Satou",
+                "native": "佐藤聡美",
+                "userPreferred": "Satomi Satou"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-x0Va6GS2YMeH.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254810,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Mari",
+            "last": "Watanabe",
+            "full": "Mari Watanabe",
+            "native": "渡辺摩利",
+            "userPreferred": "Mari Watanabe"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88200-4TtqKvqX36N8.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95158,
+              "name": {
+                "first": "Marina",
+                "middle": null,
+                "last": "Inoue",
+                "full": "Marina Inoue",
+                "native": "井上麻里奈",
+                "userPreferred": "Marina Inoue"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254811,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Katsuto",
+            "last": "Juumonji",
+            "full": "Katsuto Juumonji",
+            "native": "十文字克人",
+            "userPreferred": "Katsuto Juumonji"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73471-o0yGvY0Zeigz.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95095,
+              "name": {
+                "first": "Junichi",
+                "middle": null,
+                "last": "Suwabe",
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一",
+                "userPreferred": "Junichi Suwabe"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254812,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Leonhart",
+            "last": "Saijou",
+            "full": "Leonhart Saijou",
+            "native": "西城レオンハルト",
+            "userPreferred": "Leonhart Saijou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88195-K4L9Uzx7ByGZ.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95494,
+              "name": {
+                "first": "Takuma",
+                "middle": null,
+                "last": "Terashima",
+                "full": "Takuma Terashima",
+                "native": "寺島拓篤",
+                "userPreferred": "Takuma Terashima"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95494-HetCpJKbDy1B.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254813,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Suzune",
+            "last": "Ichihara",
+            "full": "Suzune Ichihara",
+            "native": "市原鈴音",
+            "userPreferred": "Suzune Ichihara"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88183-3fkbbuQDq3Cf.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95031,
+              "name": {
+                "first": "Mai",
+                "middle": null,
+                "last": "Nakahara",
+                "full": "Mai Nakahara",
+                "native": "中原麻衣",
+                "userPreferred": "Mai Nakahara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254814,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Mayumi",
+            "last": "Saegusa",
+            "full": "Mayumi Saegusa",
+            "native": "七草真由美",
+            "userPreferred": "Mayumi Saegusa"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88194-HE3sw1jDHN1L.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 95185,
+              "name": {
+                "first": "Kana",
+                "middle": null,
+                "last": "Hanazawa",
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜",
+                "userPreferred": "Kana Hanazawa"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254815,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Shizuku",
+            "last": "Kitayama",
+            "full": "Shizuku Kitayama",
+            "native": "北山雫",
+            "userPreferred": "Shizuku Kitayama"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88188-PFLuypIzwfJR.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 101997,
+              "name": {
+                "first": "Yuiko",
+                "middle": null,
+                "last": "Tatsumi",
+                "full": "Yuiko Tatsumi",
+                "native": "巽悠衣子",
+                "userPreferred": "Yuiko Tatsumi"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101997-AUljb27RuBmm.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254816,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Azusa",
+            "last": "Nakajou",
+            "full": "Azusa Nakajou",
+            "native": "中条あずさ",
+            "userPreferred": "Azusa Nakajou"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72563-E0zvek4ZgDGC.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 107748,
+              "name": {
+                "first": "Saki",
+                "middle": null,
+                "last": "Ogasawara",
+                "full": "Saki Ogasawara",
+                "native": "小笠原早紀",
+                "userPreferred": "Saki Ogasawara"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107748-QUwR5vrAEMS9.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 254817,
+        "role": "MAIN",
+        "node": {
+          "name": {
+            "first": "Mikihiko",
+            "last": "Yoshida",
+            "full": "Mikihiko Yoshida",
+            "native": "吉田幹比古",
+            "userPreferred": "Mikihiko Yoshida"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88201-f8b04jB5haJw.png"
+          }
+        },
+        "voiceActorRoles": [
+          {
+            "voiceActor": {
+              "id": 103639,
+              "name": {
+                "first": "Atsushi",
+                "middle": null,
+                "last": "Tamaru",
+                "full": "Atsushi Tamaru",
+                "native": "田丸篤志",
+                "userPreferred": "Atsushi Tamaru"
+              },
+              "image": {
+                "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103639-HsiG5W51qgzi.png"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
